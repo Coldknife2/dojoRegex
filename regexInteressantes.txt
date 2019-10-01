@@ -1,0 +1,3 @@
+[\wà-ïæù-üò-öŐ-œÿ&] <= Toutes les lettres alphabet FR
+[\r\n\."'’, ] <= retours à la ligne, points, virgules
+[;:()[\]{}]

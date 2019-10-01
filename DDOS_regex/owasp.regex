@@ -1,0 +1,10 @@
+^(([a-z])+.)+[A-Z]([a-z])+$
+
+=> ?
+
+=> Revoir sa regex
+
+^(([a-z])+\.)+[A-Z]([a-z])+$ <= Mauvaise compréhension du . ?
+
+(([a-z])+.)+ => Est-ce qu'on peut déjà virer une parenthèse ? ([a-z]+.)+
+[A-Z][a-z]+$ <= On ne matche que sur la fin, puis on vérifie le début ? (Pour ça on peut splitter sur la seule Majuscule)

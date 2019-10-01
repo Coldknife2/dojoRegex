@@ -1,0 +1,14 @@
+Ajoutons un peu de poivron
+Et puis une poignée d'origan
+Les saucisses pourront cuire
+Admettons maintenant que l'
+Ire de nos hôtes soit attisée
+Il faut mettre un peu de sel dans leur vie
+De notre bonne humeur il faudra les distraires
+Et la soirée sera bonne
+
+
+=> Prendre les 1ères lettres de phrases 
+qui ont le 2ème mot qui ne comporte pas exactement 4 caractères
+
+^.(?!\w+ \w{4} )

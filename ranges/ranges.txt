@@ -1,0 +1,8 @@
+https://www.ascii-code.com/
+
+abcdefg
+Abcdefg
+_\`^[]
+
+Exemple où ça ne sert d'utiliser une regex: 
+vérifier qu'au moins chaque lettre d'un pangramme soit présente

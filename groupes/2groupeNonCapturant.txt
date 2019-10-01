@@ -1,0 +1,34 @@
+114Aass4uru432 ysd8ss7e212t4cs4q6iso129ud27rd3s4sus
+
+
+Règles :
+
+Notre agent déteste utiliser le chiffre 7,
+c'est le nombre de son plus grand rival, 
+et il a horreur de penser à son rival
+
+Il n'apprécie pas non plus les séries de 3 chiffres,
+cela lui rappelle aussi son rival
+
+il n'aime pas non plus quand ses voyelles soient suivies d'un 'r'
+'t' ou 's', ayant une poignée de dents manquantes et n'arrivant
+pas à les prononcer
+
+il a également eu pour instruction pour chiffrer son message
+de rajouter des nombres précédés de 'q' 's' 'd' 't' au choix
+
+
+
+
+
+
+
+
+
+
+
+
+
+((?:\d{3})|(?:7)|(?:[aeiouy][rts])|(?:[qsdt]\d)|(.))
+
+On veut matcher une addresse web, substitution forcée

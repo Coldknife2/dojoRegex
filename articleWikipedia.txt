@@ -1,0 +1,1933 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Effet tunnel — Wikipédia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Effet_tunnel","wgTitle":"Effet tunnel","wgCurRevisionId":158548070,"wgRevisionId":158548070,"wgArticleId":688758,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article contenant un appel à traduction en anglais","Portail:Physique/Articles liés","Portail:Sciences/Articles liés","Physique quantique"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRelevantPageName":"Effet_tunnel","wgRelevantArticleId":688758,"wgRequestId":"XNBpigpAAD0AAEsffe0AAACI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q175751","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.8"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1dpodri",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.dismissableSiteNotice.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/1200px--Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/fr.m.wikipedia.org/wiki/Effet_tunnel"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Effet_tunnel&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Effet_tunnel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Effet_tunnel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Effet_tunnel rootpage-Effet_tunnel skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Emasquer\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Effet tunnel</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Un article de Wikip&eacute;dia, l&#039;encyclop&eacute;die libre.</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter &agrave; la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter &agrave; la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d&#39;aide sur l&#39;homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Effet_tunnel_(homonymie)" class="mw-disambig" title="Effet tunnel (homonymie)">Effet tunnel</a>.</div>
+<p>L'<b>effet tunnel</b> désigne la propriété que possède un objet <a href="/wiki/M%C3%A9canique_quantique" title="Mécanique quantique">quantique</a> de franchir une <a href="/wiki/Barri%C3%A8re_de_potentiel" title="Barrière de potentiel">barrière de potentiel</a> même si son énergie est inférieure à l'énergie minimale requise pour franchir cette barrière. C'est un effet purement quantique, qui ne peut pas s'expliquer par la <a href="/wiki/M%C3%A9canique_classique" class="mw-redirect" title="Mécanique classique">mécanique classique</a>.
+Pour une telle particule, la <a href="/wiki/Fonction_d%27onde" title="Fonction d&#39;onde">fonction d'onde</a>, dont le carré du module représente la densité de probabilité de présence, ne s'annule pas au niveau de la barrière, mais s'atténue à l'intérieur de la barrière (pratiquement <a href="/wiki/D%C3%A9croissance_exponentielle" title="Décroissance exponentielle">exponentiellement</a> pour une barrière assez large). Si, à la sortie de la barrière de potentiel, la particule possède une probabilité de présence non nulle, cela signifie qu'elle peut traverser cette barrière. Cette probabilité dépend des <a href="/wiki/%C3%89tat_quantique" title="État quantique">états accessibles</a> de part et d'autre de la barrière ainsi que de l'extension spatiale de la barrière.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:332px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:330px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/854px--Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;90.64&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Effet_tunnel_quantique_et_principe_du_microscope_à_effet_tunnel.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.480p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 SD (480P)&quot; data-shorttitle=&quot;VP9 480P&quot; data-transcodekey=&quot;480p.vp9.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;743352&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM SD (480p)&quot; data-shorttitle=&quot;WebM 480p&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;864728&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.720p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 HD (720P)&quot; data-shorttitle=&quot;VP9 720P&quot; data-transcodekey=&quot;720p.vp9.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;1427352&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM HD (720p)&quot; data-shorttitle=&quot;WebM 720p&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;2135304&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original fichier Ogg, 1&#160;280 × 720 (2,97&#160;Mbps)&quot; data-shorttitle=&quot;Source Ogg&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;2974835&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Bande passante la plus faible VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;214&quot; data-height=&quot;120&quot; data-bandwidth=&quot;151224&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM à bande étroite (160p)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;216520&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Faible bande passante VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;180&quot; data-bandwidth=&quot;216792&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Petit VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;257712&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Petit WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;280672&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;WebM VP9 (360P) lisible en continu sur le web&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;437792&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360p)&quot; data-shorttitle=&quot;WebM 360p&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;471024&quot; data-framerate=&quot;25&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="Fichier:Effet tunnel quantique et principe du microscope à effet tunnel.ogv" style="width:330px;height:186px" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv/330px--Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/3/32/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv" title="Lire le média" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Lire le média</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv" class="internal" title="Agrandir"></a></div>Animation montrant l'effet tunnel quantique et son utilisation dans un microscope à effet tunnel</div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2>Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Analyse"><span class="tocnumber">1</span> <span class="toctext">Analyse</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Démonstration"><span class="tocnumber">2</span> <span class="toctext">Démonstration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Exemples"><span class="tocnumber">4</span> <span class="toctext">Exemples</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Analyses_mathématiques"><span class="tocnumber">5</span> <span class="toctext">Analyses mathématiques</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Introduction_à_la_notion_de_transmitivité"><span class="tocnumber">5.1</span> <span class="toctext">Introduction à la notion de transmitivité</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Exemples_de_transmitivités_tunnel"><span class="tocnumber">5.2</span> <span class="toctext">Exemples de transmitivités tunnel</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#barrière_rectangulaire_simple,_associations_de_barrières_simples"><span class="tocnumber">5.2.1</span> <span class="toctext">barrière rectangulaire simple, associations de barrières simples</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#barrière_trapézoïdale"><span class="tocnumber">5.2.2</span> <span class="toctext">barrière trapézoïdale</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#approximation_BKW"><span class="tocnumber">5.2.3</span> <span class="toctext">approximation BKW</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Approche_semi-classique_et_utilisation_du_potentiel_retourné"><span class="tocnumber">5.3</span> <span class="toctext">Approche semi-classique et utilisation du potentiel retourné</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Application_à_la_radioactivité_alpha"><span class="tocnumber">5.3.1</span> <span class="toctext">Application à la radioactivité alpha</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Application_à_l&#39;effet_Fowler-Nordheim"><span class="tocnumber">5.3.2</span> <span class="toctext">Application à l'effet Fowler-Nordheim</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_et_références"><span class="tocnumber">6</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Voir_aussi"><span class="tocnumber">7</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Articles_connexes"><span class="tocnumber">7.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Liens_externes"><span class="tocnumber">7.2</span> <span class="toctext">Liens externes</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Bibliographie"><span class="tocnumber">7.3</span> <span class="toctext">Bibliographie</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Analyse">Analyse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Analyse">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=1" title="Modifier la section : Analyse">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Au niveau théorique le comportement tunnel n'est pas fondamentalement différent du comportement classique de la particule quantique face à la barrière de potentiel&#160;; elle satisfait à l'<a href="/wiki/%C3%89quation_de_Schr%C3%B6dinger" title="Équation de Schrödinger">équation de Schrödinger</a>, équation différentielle impliquant la continuité de la fonction d'onde et de sa dérivée première dans tout l'espace. De même que l'équation des ondes électromagnétiques mène au phénomène des <a href="/wiki/Onde_%C3%A9vanescente" title="Onde évanescente">ondes évanescentes</a>, de même la fonction d'onde rencontre des cas où l'amplitude de probabilité de présence est non nulle dans des endroits où l'énergie potentielle est supérieure à l'énergie totale. 
+</p><p>Si, au niveau mathématique l'évaluation de l'effet tunnel peut parfois être simple, l'interprétation que l'on cherche à donner aux solutions révèle le fossé qui sépare la mécanique classique, domaine du point matériel suivant une trajectoire définie dans l'espace-temps, de la mécanique quantique où la notion de trajectoire simple disparaît au profit de tout un ensemble de trajectoires possibles.
+</p><p>La <a href="https://fr.wikibooks.org/wiki/Temps_de_travers%C3%A9e_tunnel" class="extiw" title="b:Temps de traversée tunnel">durée de traversée tunnel</a> d'une particule à travers une barrière quantique a été, et est encore, le sujet d'âpres discussions. Des études assez nombreuses dans le domaine électromagnétique ou photonique ont révélé l'apparition de ce que l'on peut interpréter comme des <a href="/wiki/Vitesse_supraluminique" title="Vitesse supraluminique">vitesses supraluminiques</a>, respectant toutefois la relativité restreinte&#160;: il s'agit du phénomène connu sous le nom d'<a href="/wiki/Effet_Hartman" title="Effet Hartman">effet Hartman</a>.
+</p>
+<h2><span id="D.C3.A9monstration"></span><span class="mw-headline" id="Démonstration">Démonstration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Démonstration">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=2" title="Modifier la section : Démonstration">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En 1978 le thermodynamicien Hubert Juillet réalise des jonctions thermoélectriques bithermes dont une distance pointe-échantillon de quelques nanomètres permet le passage d'un courant électrique par effet tunnel et cela même avec des  tensions extrêmement basse&#160;: &lt;0,0001 V.
+</p><p>Ces travaux aboutirent bien plus tard à des dépôts de brevets d'inventions et sont considérés comme étant les ancêtres du microscope à effet tunnel et du chapelet conducteur d'électricité (electrically conductive string).
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Applications">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=3" title="Modifier la section : Applications">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L'effet tunnel est à l'œuvre dans&#160;:
+</p>
+<ul><li>les molécules&#160;: <a href="/wiki/Ammoniac" title="Ammoniac">NH<sub>3</sub></a>, par exemple,</li>
+<li>les modélisations des désintégrations (<a href="/wiki/Fission" class="mw-redirect" title="Fission">fission</a>, <a href="/wiki/Radioactivit%C3%A9_alpha" class="mw-redirect" title="Radioactivité alpha">radioactivité alpha</a> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>),</li>
+<li>certaines <a href="/wiki/Diode" title="Diode">diodes</a>,</li>
+<li>la mémoire <a href="/wiki/MRAM" class="mw-redirect" title="MRAM">MRAM</a>,</li>
+<li>les <a href="/wiki/Microscope_%C3%A0_effet_tunnel" title="Microscope à effet tunnel">microscopes à effet tunnel</a>,</li>
+<li>l'<a href="/wiki/Effet_Josephson" title="Effet Josephson">effet Josephson</a>.</li></ul>
+<p>Cas particulier&#160;: l'<a href="/wiki/Effet_tunnel_r%C3%A9sonnant" title="Effet tunnel résonnant">effet tunnel résonnant</a>.
+</p>
+<h2><span class="mw-headline" id="Exemples">Exemples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Exemples">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=4" title="Modifier la section : Exemples">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:442px;"><a href="/wiki/Fichier:Tunnel1_1204.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tunnel1_1204.png/440px-Tunnel1_1204.png" decoding="async" width="440" height="359" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tunnel1_1204.png/660px-Tunnel1_1204.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tunnel1_1204.png/880px-Tunnel1_1204.png 2x" data-file-width="2030" data-file-height="1656" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Tunnel1_1204.png" class="internal" title="Agrandir"></a></div>Une onde plane correspondant à une particule d'une <a href="/wiki/Masse_effective" title="Masse effective">masse effective</a> de 0,067 fois la masse de l'électron, d'énergie 0,08 <a href="/wiki/%C3%89lectron-volt" class="mw-redirect" title="Électron-volt">eV</a> est incidente sur une barrière de potentiel rectangulaire simple, de 0,1 eV. Le schéma révèle la densité de probabilité de présence associée à cet état <a href="/wiki/Onde_stationnaire" title="Onde stationnaire">stationnaire</a>. Le côté gauche révèle le phénomène d'<a href="/wiki/Interf%C3%A9rence" title="Interférence">interférence</a> entre l'onde incidente et l'onde réfléchie. La partie tunnel (dans la barrière) provient de la combinaison de deux exponentielles, respectivement décroissantes de gauche à droite, et de droite à gauche. À droite, l'onde plane transmise se révèle par une densité de probabilité de présence constante.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:EffetTunnel.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/5/50/EffetTunnel.gif" decoding="async" width="200" height="200" class="thumbimage" data-file-width="200" data-file-height="200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:EffetTunnel.gif" class="internal" title="Agrandir"></a></div>Fonction d'onde d'un électron, représentant la <a href="/wiki/Densit%C3%A9_de_probabilit%C3%A9" class="mw-redirect" title="Densité de probabilité">densité de probabilité</a> de sa position. La plus grande probabilité est que l'électron soit réfléchi. Il existe une faible probabilité que l'électron franchisse la barrière de potentiel.</div></div></div>
+<div style="clear:both;"></div>
+<h2><span id="Analyses_math.C3.A9matiques"></span><span class="mw-headline" id="Analyses_mathématiques">Analyses mathématiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Analyses mathématiques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=5" title="Modifier la section : Analyses mathématiques">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Introduction_.C3.A0_la_notion_de_transmitivit.C3.A9"></span><span class="mw-headline" id="Introduction_à_la_notion_de_transmitivité">Introduction à la notion de transmitivité</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Introduction à la notion de transmitivité">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=6" title="Modifier la section : Introduction à la notion de transmitivité">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La barrière quantique sépare l'espace en trois, dont les parties gauche et droite sont considérées comme ayant des potentiels constants jusqu'à l'infini (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle V_{G}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>G</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V_{G}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ece03930fc1d4f39729f6e75ebd9414c57319110" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.879ex; height:2.509ex;" alt="V_{G}"/></span> à gauche, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle V_{D}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>V</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>D</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle V_{D}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/499c0305c10b57061914df97a42583a302f79994" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.948ex; height:2.509ex;" alt="V_{D}"/></span> à droite). La partie intermédiaire constitue la barrière, qui peut être compliquée, révélant un profil doux, ou au contraire formé de barrières rectangulaires, ou autres éventuellement en séries.
+</p>
+<div class="floatright"><a href="/wiki/Fichier:Tunnel_bar1.png" class="image"><img alt="Tunnel bar1.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tunnel_bar1.png/300px-Tunnel_bar1.png" decoding="async" width="300" height="174" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tunnel_bar1.png/450px-Tunnel_bar1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tunnel_bar1.png/600px-Tunnel_bar1.png 2x" data-file-width="864" data-file-height="501" /></a></div>
+<p>On s'intéresse souvent à la recherche des états stationnaires pour de telles géométries, états dont l'énergie peut être supérieure à la hauteur de potentiel, ou au contraire inférieure. Le premier cas correspond à une situation dénommée parfois comme <i>classique</i>, bien que la réponse révèle un comportement typiquement quantique&#160;; le second correspond au cas où l'énergie de l'état est inférieure à la hauteur du potentiel. La particule à laquelle correspond l'état traverse alors la barrière par effet tunnel, ou, autrement dit, si l'on considère le diagramme énergétique, par effet saute-mouton.
+</p><p><br />
+Envisageant une particule incidente depuis la gauche, l'état stationnaire prend la forme simple suivante&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi (x)=\exp(ik_{G}x)+r\exp(-ik_{G}x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C6;<!-- φ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>i</mi>
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>G</mi>
+          </mrow>
+        </msub>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>r</mi>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>i</mi>
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>G</mi>
+          </mrow>
+        </msub>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi (x)=\exp(ik_{G}x)+r\exp(-ik_{G}x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48f6c7374c870303bb54e378d4ce743d69ed7fe0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:34.3ex; height:2.843ex;" alt="\varphi (x)=\exp(ik_{G}x)+r\exp(-ik_{G}x)"/></span>   pour <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x&lt;a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&lt;</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x&lt;a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a9dbe6b53fabf100ec2ebb36dcd116e152dd2b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.658ex; height:1.843ex;" alt="x&lt;a"/></span>&#160;;</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi (x)=\varphi _{int}(x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C6;<!-- φ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03C6;<!-- φ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi (x)=\varphi _{int}(x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36f69fb3ce6694d1263a4e098530403610544ab3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.796ex; height:2.843ex;" alt="\varphi (x)=\varphi _{{int}}(x)"/></span>   pour <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\leq x\leq b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>x</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\leq x\leq b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8725e3444a04e54561699c3255f7489e22b63a03" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:9.754ex; height:2.343ex;" alt="a\leq x\leq b"/></span>&#160;;</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi (x)=t\exp(ik_{D}x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C6;<!-- φ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>t</mi>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>i</mi>
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>D</mi>
+          </mrow>
+        </msub>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi (x)=t\exp(ik_{D}x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/897d5f9f874be9d02664c5e1bb603b28f6406a63" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:19.282ex; height:2.843ex;" alt="\varphi (x)=t\exp(ik_{D}x)"/></span>   pour <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b\leq x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b\leq x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72a700b6c4d0dd9796a91a4b92714dbeab581361" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:5.426ex; height:2.343ex;" alt="b\leq x"/></span>&#160;;</dd></dl>
+<p>où <i>r</i>  et <i>t</i>  sont respectivement les coefficients de réflexion et transmission en amplitude pour l'onde plane incidente <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi (x)=\exp(ik_{G}x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C6;<!-- φ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>i</mi>
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>G</mi>
+          </mrow>
+        </msub>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi (x)=\exp(ik_{G}x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/28210b55657c06d6137c371f8877258e6c3012f8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.987ex; height:2.843ex;" alt="\varphi (x)=\exp(ik_{G}x)"/></span>. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi _{int}(x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C6;<!-- φ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>n</mi>
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi _{int}(x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19811485bdeac0a62b562329f6c30e1a544a4c5c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.039ex; height:2.843ex;" alt="\varphi _{{int}}(x)"/></span> est la fonction d'onde à l'intérieur de la barrière, dont le calcul peut être assez compliqué&#160;; elle est liée aux expressions de la fonction d'onde dans les demi-espaces droits et gauches par les relations de continuité de la fonction d'onde et de sa dérivée première.
+</p><p>Assez souvent on s'intéresse à la probabilité de transmission (donnant lieu au courant tunnel, par exemple), et donc on privilégie l'étude du coefficient de transmission <i>t</i>  , plus précisément la valeur en amplitude et phase du coefficient <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t_{ab}={\frac {t\exp(ik_{D}b)}{\exp(ik_{G}a)}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>b</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>t</mi>
+              <mi>exp</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>i</mi>
+              <msub>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>D</mi>
+                </mrow>
+              </msub>
+              <mi>b</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>exp</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>i</mi>
+              <msub>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>G</mi>
+                </mrow>
+              </msub>
+              <mi>a</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t_{ab}={\frac {t\exp(ik_{D}b)}{\exp(ik_{G}a)}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b728f2c652a9b163485b22aa04ff96641b61dcdc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:17.774ex; height:6.509ex;" alt="t_{{ab}}={\frac  {t\exp(ik_{D}b)}{\exp(ik_{G}a)}}"/></span>, caractérisant les relations entre l'onde plane incidente, prise à l'entrée <i>a</i> et l'onde plane de sortie prise au point <i>b</i>. La probabilité de transmission est nommée la transmitivité <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T=|t_{ab}|^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+            <mi>b</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=|t_{ab}|^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a47b980ac24a5df126b3fd796f357ab13211941" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.73ex; height:3.343ex;" alt="T=|t_{{ab}}|^{2}"/></span>.
+</p><p>Ce sont ces transmitivités qui sont présentées dans quelques cas particuliers ci-dessous, limitées (en fait pour certaines formules seulement) au cas tunnel.
+</p>
+<h3><span id="Exemples_de_transmitivit.C3.A9s_tunnel"></span><span class="mw-headline" id="Exemples_de_transmitivités_tunnel">Exemples de transmitivités tunnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Exemples de transmitivités tunnel">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=7" title="Modifier la section : Exemples de transmitivités tunnel">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="barri.C3.A8re_rectangulaire_simple.2C_associations_de_barri.C3.A8res_simples"></span><span class="mw-headline" id="barrière_rectangulaire_simple,_associations_de_barrières_simples">barrière rectangulaire simple, associations de barrières simples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : barrière rectangulaire simple, associations de barrières simples">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=8" title="Modifier la section : barrière rectangulaire simple, associations de barrières simples">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>La plupart des particularités de l'effet tunnel apparaissent lors de la considération de la barrière de potentiel la plus simple, une barrière rectangulaire symétrique, pour laquelle le potentiel est constant (égal à <i>U</i>) entre les points <i>a</i> et <i>b</i>, et nul à droite et à gauche. Dans ce cas les vecteurs d'onde incident (réfléchi) et transmis ont même module, noté <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k={\sqrt {2mE}}/\hbar }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mn>2</mn>
+            <mi>m</mi>
+            <mi>E</mi>
+          </msqrt>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k={\sqrt {2mE}}/\hbar }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8932f2908a8ccd8476d39eecd539b12a1fdf2dcb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.693ex; height:3.176ex;" alt="k={\sqrt  {2mE}}/\hbar "/></span> tandis que la partie intérieure de la fonction d'onde est de la forme <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Ae^{Kx}+Be^{-Kx}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>K</mi>
+            <mi>x</mi>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi>B</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>K</mi>
+            <mi>x</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Ae^{Kx}+Be^{-Kx}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac6a01e51f991c05836288f7228210e9a8739016" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:15.06ex; height:2.843ex;" alt="Ae^{{Kx}}+Be^{{-Kx}}"/></span> avec <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle K={\sqrt {2m(U-E)}}/\hbar }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mn>2</mn>
+            <mi>m</mi>
+            <mo stretchy="false">(</mo>
+            <mi>U</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>E</mi>
+            <mo stretchy="false">)</mo>
+          </msqrt>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K={\sqrt {2m(U-E)}}/\hbar }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ac4aec17a15def8d6d8ca772c4b5a14e2973e4a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:21.368ex; height:4.843ex;" alt="K={\sqrt  {2m(U-E)}}/\hbar "/></span>.
+</p><p>Pour les calculs on se place dans le repère où <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90d476e5e765a5d77bbcff32e4584579207ec7d8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.491ex; height:2.176ex;" alt="a=0"/></span>. La condition de continuité en 0 de la fonction d'onde et de sa dérivée s'écrit&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \left\{{\begin{array}{c}A={\frac {1}{2}}[1+r+{\frac {ik}{K}}(1-r)]\\B={\frac {1}{2}}[1+r-{\frac {ik}{K}}(1-r)]\end{array}}\right.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>{</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>A</mi>
+                  <mo>=</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mn>1</mn>
+                      <mn>2</mn>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">[</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>r</mi>
+                  <mo>+</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                      <mi>K</mi>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">(</mo>
+                  <mn>1</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>r</mi>
+                  <mo stretchy="false">)</mo>
+                  <mo stretchy="false">]</mo>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>B</mi>
+                  <mo>=</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mn>1</mn>
+                      <mn>2</mn>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">[</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>r</mi>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                      <mi>K</mi>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">(</mo>
+                  <mn>1</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>r</mi>
+                  <mo stretchy="false">)</mo>
+                  <mo stretchy="false">]</mo>
+                </mtd>
+              </mtr>
+            </mtable>
+          </mrow>
+          <mo fence="true" stretchy="true" symmetric="true"></mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\{{\begin{array}{c}A={\frac {1}{2}}[1+r+{\frac {ik}{K}}(1-r)]\\B={\frac {1}{2}}[1+r-{\frac {ik}{K}}(1-r)]\end{array}}\right.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b953c7f82d1115fa7cb64033baf142f213719436" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:27.489ex; height:7.843ex;" alt="\left\{{\begin{array}{c}A={\frac  {1}{2}}[1+r+{\frac  {ik}{K}}(1-r)]\\B={\frac  {1}{2}}[1+r-{\frac  {ik}{K}}(1-r)]\end{array}}\right."/></span></dd></dl>
+<p>La condition de continuité en <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;" alt="b"/></span>&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \left\{{\begin{array}{c}A={\frac {t}{2}}[1+{\frac {ik}{K}}]e^{ikb-Kb}\\B={\frac {t}{2}}[1-{\frac {ik}{K}}]e^{ikb+Kb}\end{array}}\right.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>{</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>A</mi>
+                  <mo>=</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mi>t</mi>
+                      <mn>2</mn>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">[</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                      <mi>K</mi>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">]</mo>
+                  <msup>
+                    <mi>e</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mi>k</mi>
+                      <mi>b</mi>
+                      <mo>&#x2212;<!-- − --></mo>
+                      <mi>K</mi>
+                      <mi>b</mi>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>B</mi>
+                  <mo>=</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mi>t</mi>
+                      <mn>2</mn>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">[</mo>
+                  <mn>1</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mi>i</mi>
+                        <mi>k</mi>
+                      </mrow>
+                      <mi>K</mi>
+                    </mfrac>
+                  </mrow>
+                  <mo stretchy="false">]</mo>
+                  <msup>
+                    <mi>e</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mi>k</mi>
+                      <mi>b</mi>
+                      <mo>+</mo>
+                      <mi>K</mi>
+                      <mi>b</mi>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+            </mtable>
+          </mrow>
+          <mo fence="true" stretchy="true" symmetric="true"></mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\{{\begin{array}{c}A={\frac {t}{2}}[1+{\frac {ik}{K}}]e^{ikb-Kb}\\B={\frac {t}{2}}[1-{\frac {ik}{K}}]e^{ikb+Kb}\end{array}}\right.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d64022970ab255b0549d959bc9e0230ee847ad6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:23.629ex; height:7.843ex;" alt="\left\{{\begin{array}{c}A={\frac  {t}{2}}[1+{\frac  {ik}{K}}]e^{{ikb-Kb}}\\B={\frac  {t}{2}}[1-{\frac  {ik}{K}}]e^{{ikb+Kb}}\end{array}}\right."/></span></dd></dl>
+<p>De ces équations on évalue les complexes <i>r</i>, <i>t</i> et la transmitivité&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t={\frac {2ikK}{e^{ikd}}}{\frac {1}{(k^{2}-K^{2})\sinh(Kd)+2ikK\cosh(Kd)}}\quad ,\quad T=|t|^{2}={\frac {4\mathrm {K} ^{2}k^{2}}{(\mathrm {K} ^{2}+k^{2})^{2}\sinh ^{2}(\mathrm {K} d)+4\mathrm {K} ^{2}k^{2}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>i</mi>
+              <mi>k</mi>
+              <mi>K</mi>
+            </mrow>
+            <msup>
+              <mi>e</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mi>k</mi>
+                <mi>d</mi>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>&#x2212;<!-- − --></mo>
+              <msup>
+                <mi>K</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo stretchy="false">)</mo>
+              <mi>sinh</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>K</mi>
+              <mi>d</mi>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mn>2</mn>
+              <mi>i</mi>
+              <mi>k</mi>
+              <mi>K</mi>
+              <mi>cosh</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>K</mi>
+              <mi>d</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="1em" />
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>T</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>t</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>4</mn>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">K</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">K</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>sinh</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">K</mi>
+              </mrow>
+              <mi>d</mi>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mn>4</mn>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">K</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t={\frac {2ikK}{e^{ikd}}}{\frac {1}{(k^{2}-K^{2})\sinh(Kd)+2ikK\cosh(Kd)}}\quad ,\quad T=|t|^{2}={\frac {4\mathrm {K} ^{2}k^{2}}{(\mathrm {K} ^{2}+k^{2})^{2}\sinh ^{2}(\mathrm {K} d)+4\mathrm {K} ^{2}k^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/017b8d76a4ab7fa6cb69598faaf18c23b674d9a7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:96.428ex; height:6.843ex;" alt="t={\frac  {2ikK}{e^{{ikd}}}}{\frac  {1}{(k^{2}-K^{2})\sinh(Kd)+2ikK\cosh(Kd)}}\quad ,\quad T=|t|^{2}={\frac  {4\mathrm{K} ^{2}k^{2}}{(\mathrm{K} ^{2}+k^{2})^{2}\sinh ^{2}(\mathrm{K} d)+4\mathrm{K} ^{2}k^{2}}}"/></span>  ,</dd></dl>
+<p>avec <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle d=b-a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mo>=</mo>
+        <mi>b</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle d=b-a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1615f7c1c2db25b55af76a6c52944aa50c15f742" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:9.382ex; height:2.343ex;" alt="d=b-a"/></span> l'épaisseur de la barrière.
+</p><p>Dans le cas de barrière <i>épaisse</i> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {K} d}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">K</mi>
+        </mrow>
+        <mi>d</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {K} d}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c445bffc0d9b359b15c961655ca1617b53695806" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.024ex; height:2.176ex;" alt="\mathrm{K} d"/></span> grand), l'on obtient la formule simple à retenir&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T=16{\frac {\mathrm {K} ^{2}k^{2}}{(\mathrm {K} ^{2}+k^{2})^{2}}}\;\exp(-2\mathrm {K} d)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <mn>16</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">K</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">K</mi>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <msup>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">K</mi>
+        </mrow>
+        <mi>d</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=16{\frac {\mathrm {K} ^{2}k^{2}}{(\mathrm {K} ^{2}+k^{2})^{2}}}\;\exp(-2\mathrm {K} d)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64484a320f57e2e6f0508541ef2647df5ad18707" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:31.116ex; height:6.843ex;" alt="T=16{\frac  {\mathrm{K} ^{2}k^{2}}{(\mathrm{K} ^{2}+k^{2})^{2}}}\;\exp(-2\mathrm{K} d)"/></span>  .</dd></dl>
+<p>Dans ce cas là, on peut considérer la transmitivité comme le produit obtenu par l'approche BKW (cf. <i>infra</i> le terme exponentiel) par un préfacteur qui n'est que le produit des modules carrés des coefficients de transmission propres aux interfaces d'entrée et de sortie. 
+</p><p>Cette structure est une forme simplifiée de celle qui apparaît dans le cas d'une barrière de forme quelconque décomposée comme une série de barrières rectangulaires. La structure du calcul repose alors sur la prise en compte d'une écriture matricielle des équations, reliant les composantes progressive et régressive dans chaque couche, permettant l'établissement de la matrice de transfert du mode stationnaire entre l'espace d'entrée et l'espace de sortie.
+</p>
+<div class="floatright"><a href="/wiki/Fichier:Tunnel_bar2.png" class="image"><img alt="Tunnel bar2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tunnel_bar2.png/300px-Tunnel_bar2.png" decoding="async" width="300" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tunnel_bar2.png/450px-Tunnel_bar2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tunnel_bar2.png/600px-Tunnel_bar2.png 2x" data-file-width="864" data-file-height="565" /></a></div>
+<p>Cette méthode est illustrée sur le cas d'une structure rencontrée en électronique ou optique, la <a href="/wiki/Effet_tunnel_r%C3%A9sonnant" title="Effet tunnel résonnant">barrière tunnel résonnante</a>, constituée d'une barrière d'entrée d'une partie interne de potentiel bas (puits de potentiel, de largeur <i>L</i>) et d'une barrière de sortie (cf. schéma). On montre que, dans le cas où le potentiel dans le puits est constant (définissant un vecteur d'onde réel <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k_{3}={\sqrt {2m(U_{b}-E)}}/\hbar }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mn>2</mn>
+            <mi>m</mi>
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>U</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>b</mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>E</mi>
+            <mo stretchy="false">)</mo>
+          </msqrt>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k_{3}={\sqrt {2m(U_{b}-E)}}/\hbar }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d0358883315dcf118614a7ea9b57ab62a9f32855" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:22.31ex; height:4.843ex;" alt="k_{3}={\sqrt  {2m(U_{b}-E)}}/\hbar "/></span>), la transmitivité de la barrière peut s'écrire&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T={\frac {T_{E}\;T_{S}}{|1+\,{\mathcal {R}}_{E}\,{\mathcal {R}}_{S}\;\exp(2ik_{3}L)|^{2}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>E</mi>
+                </mrow>
+              </msub>
+              <mspace width="thickmathspace" />
+              <msub>
+                <mi>T</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>S</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mspace width="thinmathspace" />
+              <msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi class="MJX-tex-caligraphic" mathvariant="script">R</mi>
+                  </mrow>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>E</mi>
+                </mrow>
+              </msub>
+              <mspace width="thinmathspace" />
+              <msub>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi class="MJX-tex-caligraphic" mathvariant="script">R</mi>
+                  </mrow>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>S</mi>
+                </mrow>
+              </msub>
+              <mspace width="thickmathspace" />
+              <mi>exp</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mi>i</mi>
+              <msub>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>3</mn>
+                </mrow>
+              </msub>
+              <mi>L</mi>
+              <mo stretchy="false">)</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">|</mo>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T={\frac {T_{E}\;T_{S}}{|1+\,{\mathcal {R}}_{E}\,{\mathcal {R}}_{S}\;\exp(2ik_{3}L)|^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f0bb150e119bb18a14db7ef1be0f9ed5e4ae66f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:31.625ex; height:6.676ex;" alt="T={\frac  {T_{E}\;T_{S}}{|1+\,{\mathcal  {R}}_{E}\,{\mathcal  {R}}_{S}\;\exp(2ik_{3}L)|^{2}}}"/></span>  ;</dd></dl>
+<p>dans le numérateur apparaissent les transmitivités des barrières d'entrée et de sortie, et le dénominateur contient, outre les coefficients de réflexion en amplitude des barrières d'entrée de sortie, vues depuis l'intérieur du puits central, un terme exponentiel dont les variations (en fonction de l'énergie et/ou l'épaisseur) sont sources de résonances possibles (la formule est bonne pour des formes quelconques des barrières d'entrée et de sortie).
+</p>
+<h4><span id="barri.C3.A8re_trap.C3.A9zo.C3.AFdale"></span><span class="mw-headline" id="barrière_trapézoïdale">barrière trapézoïdale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : barrière trapézoïdale">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=9" title="Modifier la section : barrière trapézoïdale">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>La barrière trapézoïdale est obtenue par l'application d'une différence de potentiel entre les deux extrémités de la barrière rectangulaire simple. Ce qui donne le schéma suivant, qui offre l'avantage d'admettre des solutions analytiques exactes&#160;; en effet, pour cette barrière l'expression de la fonction d'onde, à l'intérieur est une combinaison linéaire de fonctions d'Airy, Ai et Bi, que l'on peut raccorder aux ondes planes solutions dans les parties gauches et droites.
+</p>
+<div class="floatleft"><a href="/wiki/Fichier:Tunnel_bar3.png" class="image"><img alt="Tunnel bar3.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tunnel_bar3.png/300px-Tunnel_bar3.png" decoding="async" width="300" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tunnel_bar3.png/450px-Tunnel_bar3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tunnel_bar3.png/600px-Tunnel_bar3.png 2x" data-file-width="851" data-file-height="534" /></a></div>
+<p>Un cas particulier apparaît dans le cadre de cette description. Si la différence de potentiel est suffisamment importante pour que la barrière montre l'existence d'un point classique de retour (passage d'une partie <i>tunnel</i> à une partie <i>classique</i>, au point <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7af1b928f06e4c7e3e8ebfd60704656719bd766" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.384ex; height:2.009ex;" alt="x_{2}"/></span>), on obtient alors l'effet d'émission de champ, couramment utilisé en <a href="/wiki/Microscopie_%C3%A9lectronique_en_transmission" title="Microscopie électronique en transmission">microscopie électronique</a>. La particule, située dans la bande de conduction à gauche, traverse par effet tunnel et se trouve accélérée vers l'extérieur, à droite.
+</p>
+<div class="floatright"><a href="/wiki/Fichier:Tunnel_bar4.png" class="image"><img alt="Tunnel bar4.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tunnel_bar4.png/300px-Tunnel_bar4.png" decoding="async" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tunnel_bar4.png/450px-Tunnel_bar4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/64/Tunnel_bar4.png 2x" data-file-width="576" data-file-height="432" /></a></div>
+<p><br />
+Éventuellement, selon les valeurs de l'énergie et la forme de la barrière, des résonances de transmitivité peuvent apparaître, dues au saut de potentiel sur la marche de droite. Cette résonance a certains traits communs avec ceux de l'<a href="/w/index.php?title=Effet_Ramsauer&amp;action=edit&amp;redlink=1" class="new" title="Effet Ramsauer (page inexistante)">effet Ramsauer</a>. Le schéma ci-contre correspond à une accumulation d'instantanés de la densité de présence associée à un paquet d'onde incident depuis le bas à gauche. L'effet de résonance se manifeste ici par l'apparition des trois maxima dans la partie <i>classique</i> de la barrière. Au terme de la traversée les parties réfléchies et transmises s'éloignent vers le haut de la figure, à gauche et à droite respectivement.
+</p>
+<h4><span class="mw-headline" id="approximation_BKW">approximation BKW</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : approximation BKW">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=10" title="Modifier la section : approximation BKW">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="bandeau-section bandeau-niveau-detail loupe">Article détaillé&#160;: <a href="/wiki/Approximation_BKW" title="Approximation BKW">Approximation BKW</a>.</div>
+<p>Dans le cas où la barrière de potentiel présente un profil doux, il est possible de montrer, à partir de l'équation de Schrödinger, ou à partir d'une discrétisation fine du potentiel en une série de petites barrières rectangulaires successives, que la fonction d'onde, en un point de coordonnée <i>x</i> dans la barrière peut s'écrire&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varphi _{BKW}(x)={\frac {1}{\sqrt {k(x)}}}\;\left[A\exp \left(i\int ^{x}\,du\,k(u)\right)+B\exp \left(-i\int ^{x}\,du\,k(u)\right)\right].}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03C6;<!-- φ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+            <mi>K</mi>
+            <mi>W</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msqrt>
+              <mi>k</mi>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo stretchy="false">)</mo>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mi>A</mi>
+            <mi>exp</mi>
+            <mo>&#x2061;<!-- ⁡ --></mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>i</mi>
+                <msup>
+                  <mo>&#x222B;<!-- ∫ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>x</mi>
+                  </mrow>
+                </msup>
+                <mspace width="thinmathspace" />
+                <mi>d</mi>
+                <mi>u</mi>
+                <mspace width="thinmathspace" />
+                <mi>k</mi>
+                <mo stretchy="false">(</mo>
+                <mi>u</mi>
+                <mo stretchy="false">)</mo>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mo>+</mo>
+            <mi>B</mi>
+            <mi>exp</mi>
+            <mo>&#x2061;<!-- ⁡ --></mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mo>&#x2212;<!-- − --></mo>
+                <mi>i</mi>
+                <msup>
+                  <mo>&#x222B;<!-- ∫ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>x</mi>
+                  </mrow>
+                </msup>
+                <mspace width="thinmathspace" />
+                <mi>d</mi>
+                <mi>u</mi>
+                <mspace width="thinmathspace" />
+                <mi>k</mi>
+                <mo stretchy="false">(</mo>
+                <mi>u</mi>
+                <mo stretchy="false">)</mo>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varphi _{BKW}(x)={\frac {1}{\sqrt {k(x)}}}\;\left[A\exp \left(i\int ^{x}\,du\,k(u)\right)+B\exp \left(-i\int ^{x}\,du\,k(u)\right)\right].}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7abbb727f40076eae3ac833f30b7c71ea26d51d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:73.095ex; height:6.843ex;" alt="\varphi _{{BKW}}(x)={\frac  {1}{{\sqrt  {k(x)}}}}\;\left[A\exp \left(i\int ^{x}\,du\,k(u)\right)+B\exp \left(-i\int ^{x}\,du\,k(u)\right)\right]."/></span></dd></dl>
+<p>Cette approximation, étudiée par Brillouin, Kramers et Wentzel, est manifestement non valide pour les points classiques de retour, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{1}\;,\;x_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mspace width="thickmathspace" />
+        <mo>,</mo>
+        <mspace width="thickmathspace" />
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{1}\;,\;x_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0203babe0a7e6a91032ed06df80b39a45f329c13" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.092ex; height:2.009ex;" alt="x_{1}\;,\;x_{2}"/></span> (cf. schéma), où le potentiel <i>V(x)</i> est égal à l'énergie <i>E</i> de l'état (<i>k(x)</i> est alors nul), il faut procéder avec quelque soin au raccordement de part et d'autre de ces points. 
+</p><p>Dans le cadre de l'étude de la transmitivité cette expression est surtout utile dans le cas tunnel, où <i>k(x)</i> devenant imaginaire pur, les deux exponentielles apparaissant dans l'expression ci-dessus correspondent à des termes décroissant de la gauche vers la droite (terme facteur de la constante A) et décroissante de la droite vers la gauche (terme facteur de B). Dans le cas d'une onde incidente venant de gauche, et pour les barrières suffisamment larges, la source de la partie régressive (expression B) est minime. La transmitivité due à cette partie tunnel est alors obtenue par la considération de la diminution de l'amplitude de l'onde entre les points classiques de retour d'entrée et de sortie, soit&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T_{BKW}=\exp \left[-2\;\int _{x_{1}}^{x_{2}}\;du\;\mathrm {K} (u)\right]\quad ;\quad \mathrm {K} (u)={\sqrt {{\frac {2m}{\hbar ^{2}}}(V(u)-E)}}\;.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+            <mi>K</mi>
+            <mi>W</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>2</mn>
+            <mspace width="thickmathspace" />
+            <msubsup>
+              <mo>&#x222B;<!-- ∫ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+            </msubsup>
+            <mspace width="thickmathspace" />
+            <mi>d</mi>
+            <mi>u</mi>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">K</mi>
+            </mrow>
+            <mo stretchy="false">(</mo>
+            <mi>u</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+        <mspace width="1em" />
+        <mo>;</mo>
+        <mspace width="1em" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">K</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mn>2</mn>
+                  <mi>m</mi>
+                </mrow>
+                <msup>
+                  <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msup>
+              </mfrac>
+            </mrow>
+            <mo stretchy="false">(</mo>
+            <mi>V</mi>
+            <mo stretchy="false">(</mo>
+            <mi>u</mi>
+            <mo stretchy="false">)</mo>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>E</mi>
+            <mo stretchy="false">)</mo>
+          </msqrt>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{BKW}=\exp \left[-2\;\int _{x_{1}}^{x_{2}}\;du\;\mathrm {K} (u)\right]\quad ;\quad \mathrm {K} (u)={\sqrt {{\frac {2m}{\hbar ^{2}}}(V(u)-E)}}\;.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98d5c3f2956da67e833dc471ca18c2382f11f975" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:65.498ex; height:6.509ex;" alt="T_{{BKW}}=\exp \left[-2\;\int _{{x_{1}}}^{{x_{2}}}\;du\;\mathrm{K} (u)\right]\quad ;\quad \mathrm{K} (u)={\sqrt  {{\frac  {2m}{\hbar ^{2}}}(V(u)-E)}}\;."/></span></dd></dl>
+<p>C'est cette expression qu'il faut alors calculer, par la méthode du potentiel inversé, par exemple. Cette approximation doit être corrigée par des préfacteurs, caractéristiques des potentiels à forte pente (saut de potentiel), que l'on rencontre à l'interface entre deux matériaux, et qui sont monnaies courantes dans les composants électroniques actuels (puits quantiques).
+</p>
+<h3><span id="Approche_semi-classique_et_utilisation_du_potentiel_retourn.C3.A9"></span><span class="mw-headline" id="Approche_semi-classique_et_utilisation_du_potentiel_retourné">Approche semi-classique et utilisation du potentiel retourné</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Approche semi-classique et utilisation du potentiel retourné">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=11" title="Modifier la section : Approche semi-classique et utilisation du potentiel retourné">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Antérieurement au développement des moyens de calculs rapides et puissants, qui permettent des évaluations précises des transmitivités, des méthodes approchées se sont développées qui ont permis, de façon efficace, de découvrir des caractéristiques de quelques transmitivités tunnel de certaines barrières d'importance théorique et pratique&#160;: barrière de type coulombien (modèle de <a href="/wiki/Radioactivit%C3%A9_alpha" class="mw-redirect" title="Radioactivité alpha">radioactivité alpha</a>) ou barrière triangulaire associée à l'effet de champ.
+</p><p>Il s'agit d'évaluer l'argument de l'exponentielle apparaissant dans l'approximation BKW. Il est aisé de calculer les intégrales pour les potentiels hyperboliques ou linéaires, mais il est intéressant de noter l'approche possible par la méthode du potentiel retourné pour laquelle l'évaluation de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \exp[i\int ^{x}p(u)du/\hbar ]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">[</mo>
+        <mi>i</mi>
+        <msup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+          </mrow>
+        </msup>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>u</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \exp[i\int ^{x}p(u)du/\hbar ]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06aed7db5db64d4181317f3e60758777bdfb0305" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:19.382ex; height:5.843ex;" alt="\exp[i\int ^{x}p(u)du/\hbar ]"/></span> est obtenue <i>via</i> celle de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \exp -[S(E)/2\hbar ]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>exp</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo stretchy="false">[</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mn>2</mn>
+        <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \exp -[S(E)/2\hbar ]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/80fdfd2b62b61e95161476b54dc6463f334f6e74" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.757ex; height:2.843ex;" alt="\exp -[S(E)/2\hbar ]"/></span> dans laquelle <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(E)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(E)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1467f5ed55172dcd5d83f152603a6eb228912726" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.084ex; height:2.843ex;" alt="S(E)"/></span> est l'action calculée sur l'orbite classique  que suivrait une particule de même énergie dans le potentiel retourné, obtenu dans le cadre de l'emploi de la <a href="/wiki/Sym%C3%A9trie_de_Corinne" class="mw-redirect" title="Symétrie de Corinne">symétrie de Corinne</a>.
+</p><p>L'intérêt repose alors sur le fait que pour les barrières suffisamment épaisses, correspondant à des puits larges, l'action est, dans l'approximation semi-classique, sujette à la quantification <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(E)=n\,h}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>n</mi>
+        <mspace width="thinmathspace" />
+        <mi>h</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(E)=n\,h}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4dbcff0f2d8816097e1fda9c1b0a415322d97b0c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.303ex; height:2.843ex;" alt="S(E)=n\,h"/></span>.
+</p><p>La transmitivité BKW d'une telle barrière s'écrit alors&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T(E)=\exp[-2\pi n(E)]\,,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">[</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mi>&#x03C0;<!-- π --></mi>
+        <mi>n</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">]</mo>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T(E)=\exp[-2\pi n(E)]\,,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbaebbd3909bcebcfe6a866d0581f967ed173076" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.482ex; height:2.843ex;" alt="T(E)=\exp[-2\pi n(E)]\,,"/></span></dd></dl>
+<p>où le <i>nombre quantique</i> <i>n</i>(<i>E</i>) est la fonction réciproque de l'énergie <i>E</i> postulée comme niveau d'énergie discret du puits de potentiel correspondant à la barrière retournée.
+</p>
+<h4><span id="Application_.C3.A0_la_radioactivit.C3.A9_alpha"></span><span class="mw-headline" id="Application_à_la_radioactivité_alpha">Application à la radioactivité alpha</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Application à la radioactivité alpha">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=12" title="Modifier la section : Application à la radioactivité alpha">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="bandeau-section bandeau-niveau-detail loupe">Article détaillé&#160;: <a href="/wiki/D%C3%A9sint%C3%A9gration_alpha" class="mw-redirect" title="Désintégration alpha">Désintégration alpha</a>.</div> 
+<p>La barrière de potentiel que doit traverser la particule alpha, d'énergie <i>E</i>, après son apparition aléatoire au sein du noyau de numéro atomique <i>Z</i>, est transformée en un puits coulombien, dont les niveaux d'énergies sont ceux d'un <a href="/wiki/Hydrog%C3%A9no%C3%AFde" title="Hydrogénoïde">hydrogénoïde</a>. Ceci permet le calcul du nombre <i>n</i>(<i>E</i>) directement à partir de formules bien connues&#160;:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle E=-{\frac {me^{4}(Z-2)2}{2\hbar ^{2}}}\times {\frac {1}{n^{2}(E)}}\,,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>m</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>4</mn>
+                </mrow>
+              </msup>
+              <mo stretchy="false">(</mo>
+              <mi>Z</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>2</mn>
+              <mo stretchy="false">)</mo>
+              <mn>2</mn>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <msup>
+                <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <msup>
+                <mi>n</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo stretchy="false">(</mo>
+              <mi>E</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E=-{\frac {me^{4}(Z-2)2}{2\hbar ^{2}}}\times {\frac {1}{n^{2}(E)}}\,,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/25997fcff2dd3c24cef436732e01fdd5481fac4e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:31.096ex; height:6.676ex;" alt="E=-{\frac  {me^{4}(Z-2)2}{2\hbar ^{2}}}\times {\frac  {1}{n^{2}(E)}}\,,"/></span></dd></dl>
+<p>où apparaissent la masse réduite, et les charges de la particule alpha et du noyau fils (numéro atomique <i>Z</i>-1).
+</p><p>Le report du nombre <i>n</i>(<i>E</i>) dans l'expression de la transmitivité révèle alors le comportement observé de la <a href="/wiki/Demi-vie" title="Demi-vie">demi-vie</a> (proportionnelle à l'inverse de la transmitivité) des émetteurs alpha en fonction de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\sqrt {E}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mi>E</mi>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {E}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f28c1f07c8dbb39b39596c7d2f1ea73ebf62db5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.711ex; height:3.009ex;" alt="{\sqrt  {E}}"/></span>, énergie de la particule rencontrant la barrière.
+</p>
+<h4><span id="Application_.C3.A0_l.27effet_Fowler-Nordheim"></span><span class="mw-headline" id="Application_à_l'effet_Fowler-Nordheim">Application à l'effet Fowler-Nordheim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Application à l&#039;effet Fowler-Nordheim">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=13" title="Modifier la section : Application à l&#039;effet Fowler-Nordheim">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Sous l'action d'un champ électrique <i>F</i>, on peut faire sortir des électrons d'un métal (charge <i>q</i>, masse <i>m</i>, énergie <i>E</i> par rapport au bas de la bande de conduction), en particulier d'un métal alcalin de <a href="/wiki/Travail_de_sortie" title="Travail de sortie">travail de sortie</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Phi }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Phi }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aed80a2011a3912b028ba32a52dfa57165455f24" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\Phi "/></span>. L'électron est alors soumis à un potentiel triangulaire qui peut, en première approximation, être traité par la méthode BKW&#160;: la transmitivité qui s'en déduit (compte tenu des points classiques de retour <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{1}=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{1}=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29d278bb750c26d4220fe951a98423a8e9cf354b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.645ex; height:2.509ex;" alt="x_1=0"/></span> et <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{2}=(\Phi -E)/qF)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>q</mi>
+        <mi>F</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x_{2}=(\Phi -E)/qF)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c40a2089ad5651739e6ac1e8dabee9c668852b09" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.463ex; height:2.843ex;" alt="x_{2}=(\Phi -E)/qF)"/></span>) est
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T_{BKW}=\exp \left[-2\;\int _{x_{1}}^{x_{2}}\;{\text{d}}u\;\mathrm {K} (u)\right]\;=\;\exp \left[-2\;{\frac {\sqrt {2m}}{\hbar qF}}\int _{0}^{\Phi -E}\;{\text{d}}X\;{\sqrt {X}}\right]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+            <mi>K</mi>
+            <mi>W</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>2</mn>
+            <mspace width="thickmathspace" />
+            <msubsup>
+              <mo>&#x222B;<!-- ∫ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>x</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+            </msubsup>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>d</mtext>
+            </mrow>
+            <mi>u</mi>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">K</mi>
+            </mrow>
+            <mo stretchy="false">(</mo>
+            <mi>u</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mo>=</mo>
+        <mspace width="thickmathspace" />
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>2</mn>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <msqrt>
+                  <mn>2</mn>
+                  <mi>m</mi>
+                </msqrt>
+                <mrow>
+                  <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+                  <mi>q</mi>
+                  <mi>F</mi>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <msubsup>
+              <mo>&#x222B;<!-- ∫ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+                <mo>&#x2212;<!-- − --></mo>
+                <mi>E</mi>
+              </mrow>
+            </msubsup>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>d</mtext>
+            </mrow>
+            <mi>X</mi>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <msqrt>
+                <mi>X</mi>
+              </msqrt>
+            </mrow>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T_{BKW}=\exp \left[-2\;\int _{x_{1}}^{x_{2}}\;{\text{d}}u\;\mathrm {K} (u)\right]\;=\;\exp \left[-2\;{\frac {\sqrt {2m}}{\hbar qF}}\int _{0}^{\Phi -E}\;{\text{d}}X\;{\sqrt {X}}\right]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd6401ffffee96871b84b5031525ab78584b57c0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:68.5ex; height:6.676ex;" alt="T_{{BKW}}=\exp \left[-2\;\int _{{x_{1}}}^{{x_{2}}}\;{\text{d}}u\;\mathrm{K} (u)\right]\;=\;\exp \left[-2\;{\frac  {{\sqrt  {2m}}}{\hbar qF}}\int _{{0}}^{{\Phi -E}}\;{\text{d}}X\;{\sqrt  {X}}\right]"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \qquad =\exp \left[-\;{\frac {4{\sqrt {2m}}}{3\hbar qF}}(\Phi -E)^{3/2}\right]\;.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mspace width="2em" />
+        <mo>=</mo>
+        <mi>exp</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mspace width="thickmathspace" />
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mn>4</mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <msqrt>
+                      <mn>2</mn>
+                      <mi>m</mi>
+                    </msqrt>
+                  </mrow>
+                </mrow>
+                <mrow>
+                  <mn>3</mn>
+                  <mi class="MJX-variant">&#x210F;<!-- ℏ --></mi>
+                  <mi>q</mi>
+                  <mi>F</mi>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo stretchy="false">(</mo>
+            <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>E</mi>
+            <msup>
+              <mo stretchy="false">)</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>3</mn>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>/</mo>
+                </mrow>
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+        <mspace width="thickmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \qquad =\exp \left[-\;{\frac {4{\sqrt {2m}}}{3\hbar qF}}(\Phi -E)^{3/2}\right]\;.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f59d5b2f4c09fd448fe86924ca59d219bd2cea5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:34.79ex; height:6.509ex;" alt="\qquad =\exp \left[-\;{\frac  {4{\sqrt  {2m}}}{3\hbar qF}}(\Phi -E)^{{3/2}}\right]\;."/></span></dd></dl>
+<p>L'obtention du courant tunnel doit bien sûr tenir compte de la distribution en énergie et direction de l'ensemble des électrons de la bande, pour la température du conducteur. 
+</p><p>Ici aussi la transmissivité aurait pu être obtenue en utilisant un potentiel retourné. Il s'agit alors du <a href="/wiki/Puits_de_potentiel_semi-classique" title="Puits de potentiel semi-classique"><i>demi-puits de Torricelli</i></a>, dont les niveaux d'énergie peuvent être calculés et permettre l'obtention du nombre <i>n</i>(<i>E</i>).
+</p>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=14" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="noprint renvois_vers_le_texte"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"> Bulletin de l'Union des physiciens, n°734, mai 1991, L'effet tunnel&#160;: quelques applications, Chérif F. MATTA</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=15" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=16" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Barri%C3%A8re_de_potentiel" title="Barrière de potentiel">Barrière de potentiel</a></li>
+<li><a href="/wiki/Barri%C3%A8re_coulombienne" title="Barrière coulombienne">Barrière coulombienne</a></li>
+<li><a href="/wiki/Radioactivit%C3%A9_%CE%B1" title="Radioactivité α">Radioactivité α</a></li>
+<li><a href="/wiki/Microscope_%C3%A9lectronique" title="Microscope électronique">Microscope électronique</a></li>
+<li><a href="/wiki/Jonction_tunnel" title="Jonction tunnel">Jonction tunnel</a></li>
+<li><a href="/wiki/Diode_%C3%A0_effet_tunnel" title="Diode à effet tunnel">Diode à effet tunnel</a></li>
+<li><a href="/wiki/M%C3%A9thode_Holstein-Herring" title="Méthode Holstein-Herring">Méthode Holstein-Herring</a></li>
+<li><a href="/wiki/Transistor_%C3%A0_effet_tunnel" title="Transistor à effet tunnel">Transistor à effet tunnel</a></li></ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="Modifier la section : Liens externes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=17" title="Modifier la section : Liens externes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.toutestquantique.fr/#tunnel">Animation, applications et recherches liées à l'effet tunnel et d'autres effets de physique quantique</a> (Université Paris Sud)</li>
+<li><a rel="nofollow" class="external text" href="http://groups.lal.in2p3.fr/simulations-pour-cours-de-physique/2015/01/15/paquet-dondes-effet-tunnel/">Ondes en présence de  marches de potentiel, application à l'effet tunnel. Université Paris XI</a></li></ul>
+<h3><span class="mw-headline" id="Bibliographie">Bibliographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="Modifier la section : Bibliographie">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit&amp;section=18" title="Modifier la section : Bibliographie">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ouvrage" id="Cohen-TannoudjiDiuLaloë"><span class="ouvrage" id="C._Cohen-TannoudjiB._DiuF._Laloë"><a href="/wiki/Claude_Cohen-Tannoudji" title="Claude Cohen-Tannoudji">C. Cohen-Tannoudji</a>, <a href="/wiki/Bernard_Diu" title="Bernard Diu">B. Diu</a> et <a href="/wiki/Franck_Lalo%C3%AB" title="Franck Laloë">F. Laloë</a>, <cite class="italique">Mécanique quantique</cite> <small>&#91;<a href="/wiki/R%C3%A9f%C3%A9rence:M%C3%A9canique_quantique_(Cohen-Tannoudji,_Diu,_Lalo%C3%AB)" title="Référence:Mécanique quantique (Cohen-Tannoudji, Diu, Laloë)">détail de l’édition</a>&#93;</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=M%C3%A9canique+quantique&amp;rft.aulast=Cohen-Tannoudji&amp;rft.aufirst=C.&amp;rft.au=B.+Diu&amp;rft.au=F.+Lalo%C3%AB&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AEffet+tunnel" id="COinS_21737"></span></span></span></li>
+<li><span class="ouvrage" id="Messiah"><span class="ouvrage" id="Albert_Messiah"><a href="/wiki/Albert_Messiah" title="Albert Messiah">Albert Messiah</a>, <cite class="italique">Mécanique quantique</cite> <small>&#91;<a href="/wiki/R%C3%A9f%C3%A9rence:M%C3%A9canique_quantique_(Messiah)" title="Référence:Mécanique quantique (Messiah)">détail des éditions</a>&#93;</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=M%C3%A9canique+quantique&amp;rft.aulast=Messiah&amp;rft.aufirst=Albert&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AEffet+tunnel" id="COinS_18761"></span></span></span></li></ul>
+<div class="navbox-container" style="clear:both;">
+<table class="navbox collapsible noprint autocollapse" data-autocollapse-group="palette" style="">
+<tbody><tr><th class="navbox-title" colspan="2" style=""><div style="float:left; width:6em; text-align:left"><div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_M%C3%A9canique_quantique" title="Modèle:Palette Mécanique quantique"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="//fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_M%C3%A9canique_quantique&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div></div><div style="font-size:110%"><a href="/wiki/M%C3%A9canique_quantique" title="Mécanique quantique">Mécanique quantique</a></div></th>
+</tr>  <tr>
+<th class="navbox-group" style="">Concepts fondamentaux</th>
+<td class="navbox-list" style=""><style data-mw-deduplicate="TemplateStyles:r151529978">.mw-parser-output .sep-liste{font-weight:bold}</style><span class="nowrap"><a href="/wiki/Antiparticule" title="Antiparticule">Antiparticule</a>/<a href="/wiki/Particule_%C3%A9l%C3%A9mentaire" title="Particule élémentaire">Particule</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/D%C3%A9coh%C3%A9rence_quantique" title="Décohérence quantique">Décohérence</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Dualit%C3%A9_onde-corpuscule" title="Dualité onde-corpuscule">Dualité</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a class="mw-selflink selflink">Effet tunnel</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89tat_quantique" title="État quantique">État quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Fonction_d%27onde" title="Fonction d&#39;onde">Fonction d'onde</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Intrication_quantique" title="Intrication quantique">Intrication</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Nombre_quantique" title="Nombre quantique">Nombre quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Observable" title="Observable">Observable</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Principe_de_correspondance" title="Principe de correspondance">Principe de correspondance</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Principe_de_superposition_quantique" title="Principe de superposition quantique">Principe de superposition quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Principe_de_compl%C3%A9mentarit%C3%A9" title="Principe de complémentarité">Principe de complémentarité</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Principe_d%27incertitude" title="Principe d&#39;incertitude">Principe d'incertitude</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/R%C3%A9duction_du_paquet_d%27onde" title="Réduction du paquet d&#39;onde">Réduction du paquet d'onde (Mesure)</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Spin" title="Spin">Spin</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Expériences</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Fentes_de_Young" title="Fentes de Young">Fentes de Young</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Exp%C3%A9rience_de_Davisson-Germer" title="Expérience de Davisson-Germer">Davisson et Germer</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Exp%C3%A9rience_de_Stern_et_Gerlach" title="Expérience de Stern et Gerlach">Stern et Gerlach</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Chat_de_Schr%C3%B6dinger" title="Chat de Schrödinger">Chat de Schrödinger</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Gomme_quantique" title="Gomme quantique">Gomme quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Exp%C3%A9rience_de_la_gomme_quantique_%C3%A0_choix_retard%C3%A9" title="Expérience de la gomme quantique à choix retardé">Gomme quantique à choix retardé</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Paradoxe_EPR" title="Paradoxe EPR">Paradoxe EPR</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Paradoxe_de_Wigner" title="Paradoxe de Wigner">Paradoxe de Wigner</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/T%C3%A9l%C3%A9portation_quantique" title="Téléportation quantique">Téléportation quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Exp%C3%A9rience_d%27Aspect" title="Expérience d&#39;Aspect">Aspect</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Exp%C3%A9rience_d%27Afshar" title="Expérience d&#39;Afshar">Afshar</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Formalisme</th>
+<td class="navbox-list" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Notation_bra-ket" title="Notation bra-ket">Notation bra-ket</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89quation_de_Schr%C3%B6dinger" title="Équation de Schrödinger">Équation de Schrödinger</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Matrice_densit%C3%A9" title="Matrice densité">Matrice densité</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Repr%C3%A9sentation_de_Schr%C3%B6dinger" title="Représentation de Schrödinger">Représentation de Schrödinger</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Repr%C3%A9sentation_de_Heisenberg" title="Représentation de Heisenberg">Représentation de Heisenberg</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Repr%C3%A9sentation_d%27interaction" title="Représentation d&#39;interaction">Représentation d'interaction</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Alg%C3%A8bre_de_Jordan" title="Algèbre de Jordan">Algèbre de Jordan</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Diagramme_de_Feynman" title="Diagramme de Feynman">Diagramme de Feynman</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89quation_de_Rarita-Schwinger" title="Équation de Rarita-Schwinger">Équation de Rarita-Schwinger</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89quation_de_Dirac" title="Équation de Dirac">Équation de Dirac</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Matrice_de_Dirac" title="Matrice de Dirac">Matrice de Dirac</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Symbole_de_Levi-Civita" title="Symbole de Levi-Civita">Symbole de Levi-Civita</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Statistiques</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Statistique_de_Maxwell-Boltzmann" title="Statistique de Maxwell-Boltzmann">Maxwell-Boltzmann</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Particules_indiscernables" title="Particules indiscernables">Échange</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Statistique_de_Fermi-Dirac" title="Statistique de Fermi-Dirac">Fermi-Dirac</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Fermion" title="Fermion">Fermion</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Statistique_de_Bose-Einstein" title="Statistique de Bose-Einstein">Bose-Einstein</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Boson" title="Boson">Boson</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Théories avancées</th>
+<td class="navbox-list" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Th%C3%A9orie_quantique_des_champs" title="Théorie quantique des champs">Théorie quantique des champs</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Axiomes_de_Wightman" title="Axiomes de Wightman">Axiomes de Wightman</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89lectrodynamique_quantique" title="Électrodynamique quantique">Électrodynamique quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Chromodynamique_quantique" title="Chromodynamique quantique">Chromodynamique quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Gravit%C3%A9_quantique" title="Gravité quantique">Gravité quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Trou_noir_virtuel" title="Trou noir virtuel">Trou noir virtuel</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Interprétations</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Probl%C3%A8me_de_la_mesure_quantique" title="Problème de la mesure quantique">Problème de la mesure</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89cole_de_Copenhague_(physique)" title="École de Copenhague (physique)">École de Copenhague</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Interpr%C3%A9tation_d%27ensemble&amp;action=edit&amp;redlink=1" class="new" title="Interprétation d&#39;ensemble (page inexistante)">Ensemble</a>&#160;<a href="https://en.wikipedia.org/wiki/Ensemble_interpretation" class="extiw" title="en:Ensemble interpretation"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Interprétation d&#39;ensemble&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Variable_cach%C3%A9e" title="Variable cachée">Variables cachées</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Th%C3%A9orie_de_De_Broglie-Bohm" title="Théorie de De Broglie-Bohm">Ontologique (Bohm-Hiley)</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Interpr%C3%A9tation_transactionnelle_de_la_m%C3%A9canique_quantique" title="Interprétation transactionnelle de la mécanique quantique">Transactionnelle</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Th%C3%A9orie_d%27Everett" title="Théorie d&#39;Everett">Mondes multiples</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Histoires_coh%C3%A9rentes&amp;action=edit&amp;redlink=1" class="new" title="Histoires cohérentes (page inexistante)">Histoires cohérentes</a>&#160;<a href="https://en.wikipedia.org/wiki/Consistent_histories" class="extiw" title="en:Consistent histories"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Histoires cohérentes&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Logique_quantique" title="Logique quantique">Logique quantique</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Physiciens</th>
+<td class="navbox-list" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Niels_Bohr" title="Niels Bohr">Bohr</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/David_Bohm" title="David Bohm">Bohm</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Max_Born" title="Max Born">Born</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Louis_de_Broglie" title="Louis de Broglie">de Broglie</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Hugh_Everett" title="Hugh Everett">Everett</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Werner_Heisenberg" title="Werner Heisenberg">Heisenberg</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Pascual_Jordan" title="Pascual Jordan">Jordan</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Ali_Moustafa_Mosharafa" title="Ali Moustafa Mosharafa">Mosharafa</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/John_von_Neumann" title="John von Neumann">von Neumann</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Wolfgang_Pauli" title="Wolfgang Pauli">Pauli</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Roger_Penrose" title="Roger Penrose">Penrose</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Max_Planck" title="Max Planck">Planck</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Erwin_Schr%C3%B6dinger" title="Erwin Schrödinger">Schrödinger</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Applications</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Information_quantique" title="Information quantique">Information quantique</a> <small>(<a href="/wiki/Informatique_quantique" title="Informatique quantique">informatique quantique</a>, <a href="/wiki/Calculateur_quantique" title="Calculateur quantique">calculateur quantique</a>, <a href="/wiki/Code_quantique" title="Code quantique">codes correcteurs quantiques</a>, <a href="/w/index.php?title=Communication_quantique&amp;action=edit&amp;redlink=1" class="new" title="Communication quantique (page inexistante)">communication quantique</a>, <a href="/wiki/Cryptographie_quantique" title="Cryptographie quantique">cryptographie quantique</a>)</small></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Chimie_quantique" title="Chimie quantique">Chimie quantique</a> <small>(<a href="/wiki/Orbitale_atomique" title="Orbitale atomique">orbitale atomique</a>,…)</small></span></td>
+</tr>                       <tr>
+<td class="navbox-banner" style="" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Postulats_de_la_m%C3%A9canique_quantique" title="Postulats de la mécanique quantique">Postulats de la mécanique quantique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Histoire_de_la_m%C3%A9canique_quantique" title="Histoire de la mécanique quantique">Histoire de la mécanique quantique</a></span></td></tr></tbody></table>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Physique" title="Portail de la physique"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Circle-icons-physics-logo.svg/24px-Circle-icons-physics-logo.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Circle-icons-physics-logo.svg/36px-Circle-icons-physics-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Circle-icons-physics-logo.svg/48px-Circle-icons-physics-logo.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Physique" title="Portail:Physique">Portail de la physique</a></span> </span></li>                    </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20190506170619
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.599 seconds
+Preprocessor visited node count: 1567/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85777/2097152 bytes
+Template argument size: 17955/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3369/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  277.213      1 -total
+ 29.89%   82.868      1 Modèle:Palette
+ 26.04%   72.192      1 Modèle:Palette_Mécanique_quantique
+ 25.89%   71.778      1 Modèle:Cohen
+ 25.73%   71.329      2 Modèle:Ouvrage
+ 25.31%   70.170      1 Modèle:Portail
+ 24.24%   67.196      1 Modèle:Méta_palette_de_navigation
+ 15.56%   43.145      9 Modèle:Liste_éléments
+ 10.19%   28.247      1 Modèle:Suivi_des_biographies
+  9.14%   25.340      1 Modèle:Catégorisation_badges
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:688758-0!canonical!math=5 and timestamp 20190506170618 and revision id 158548070
+ -->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Effet_tunnel&amp;oldid=158548070">https://fr.wikipedia.org/w/index.php?title=Effet_tunnel&amp;oldid=158548070</a>&#160;».</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Physique_quantique" title="Catégorie:Physique quantique">Physique quantique</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Physique/Articles_li%C3%A9s" title="Catégorie:Portail:Physique/Articles liés">Portail:Physique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Effet+tunnel" title="Nous vous encourageons à créer un compte utilisateur et vous connecter; ce n’est cependant pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Effet+tunnel" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Effet_tunnel" title="Voir le contenu de la page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Discussion:Effet_tunnel" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Effet_tunnel">Lire</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Effet_tunnel&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Effet_tunnel&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Effet_tunnel&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Plus</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Rechercher</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Visiter la page d’accueil"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Contribuer" aria-labelledby="p-Contribuer-label">
+			<h3 id="p-Contribuer-label">Contribuer</h3>
+			<div class="body">
+								<ul>
+					<li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Outils</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Effet_tunnel" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Effet_tunnel" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Importer un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Effet_tunnel&amp;oldid=158548070" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Effet_tunnel&amp;action=info" title="Plus d’information sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q175751" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Effet_tunnel&amp;id=158548070" title="Informations sur la manière de citer cette page">Citer cette page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimer / exporter</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Effet+tunnel">Créer un livre</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Effet+tunnel&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Effet_tunnel&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Dans d’autres projets</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Quantum_tunneling" hreflang="en">Wikimédia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Dans d’autres langues</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%81%D9%82_%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7_%D8%A7%D9%84%D9%83%D9%85" title="نفق ميكانيكا الكم — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Efeutu_t%C3%BAnel" title="Efeutu túnel — asturien" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D1%8D%D0%BB%D1%8C%D0%BD%D1%8B_%D1%8D%D1%84%D0%B5%D0%BA%D1%82" title="Тунэльны эфект — biélorusse" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B5%D0%BB%D0%B5%D0%BD_%D0%BF%D1%80%D0%B5%D1%85%D0%BE%D0%B4" title="Тунелен преход — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AE_%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82" title="কোয়ান্টাম টানেলিং — bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Tunel_efekat" title="Tunel efekat — bosniaque" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Efecte_t%C3%BAnel" title="Efecte túnel — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tunelov%C3%BD_jev" title="Tunelový jev — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kvantemekanisk_tunnelering" title="Kvantemekanisk tunnelering — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tunneleffekt" title="Tunneleffekt — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF_%CF%83%CE%AE%CF%81%CE%B1%CE%B3%CE%B3%CE%B1%CF%82" title="Φαινόμενο σήραγγας — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Quantum_tunnelling" title="Quantum tunnelling — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Tunela_efiko" title="Tunela efiko — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Efecto_t%C3%BAnel" title="Efecto túnel — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tunneliefekt" title="Tunneliefekt — estonien" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D9%84%E2%80%8C%D8%B2%D9%86%DB%8C_%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C" title="تونل‌زنی کوانتومی — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tunneli-ilmi%C3%B6" title="Tunneli-ilmiö — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Toll%C3%A1n%C3%BA_candamach" title="Tollánú candamach — irlandais" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%95%D7%A8_%D7%A7%D7%95%D7%95%D7%A0%D7%98%D7%99" title="מנהור קוונטי — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Tuneliranje" title="Tuneliranje — croate" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Alag%C3%BAthat%C3%A1s" title="Alagúthatás — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%B8%D6%82%D5%B6%D5%A5%D5%AC%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A5%D6%80%D6%87%D5%B8%D6%82%D5%B5%D5%A9" title="Թունելային երևույթ — arménien" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Penerowongan_kuantum" title="Penerowongan kuantum — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Skammtasmug" title="Skammtasmug — islandais" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Effetto_tunnel" title="Effetto tunnel — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E5%8A%B9%E6%9E%9C" title="トンネル効果 — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%D0%B4%D1%96%D0%BA_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Туннельдік эффект — kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%84%B0%EB%84%90_%ED%9A%A8%EA%B3%BC" title="터널 효과 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Tune%C4%BCefekts" title="Tuneļefekts — letton" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B5%D0%BB%D1%81%D0%BA%D0%B8_%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="Тунелски ефект — macédonien" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B4%A3%E0%B4%B2%E0%B4%BF%E0%B4%99%E0%B5%8D_(%E0%B4%87%E0%B4%B2%E0%B4%95%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%A3%E0%B4%BF%E0%B4%95%E0%B4%82)" title="ടണലിങ് (ഇലക്ട്രോണികം) — malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tunneleffect" title="Tunneleffect — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kvantemekanisk_tunnelering" title="Kvantemekanisk tunnelering — norvégien nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kvantetunnelering" title="Kvantetunnelering — norvégien" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Efiech_tun%C3%A8u" title="Efiech tunèu — occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%81%E0%A8%86%E0%A8%82%E0%A8%9F%E0%A8%AE_%E0%A8%9F%E0%A9%B1%E0%A8%A8%E0%A8%B2%E0%A8%BF%E0%A9%B0%E0%A8%97" title="ਕੁਆਂਟਮ ਟੱਨਲਿੰਗ — pendjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zjawisko_tunelowe" title="Zjawisko tunelowe — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tunelamento_qu%C3%A2ntico" title="Tunelamento quântico — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Efectul_tunel" title="Efectul tunel — roumain" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Туннельный эффект — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Quantum_tunnellin" title="Quantum tunnellin — écossais" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tuneliranje" title="Tuneliranje — serbo-croate" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Quantum_tunnelling" title="Quantum tunnelling — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Tunelov%C3%BD_jav" title="Tunelový jav — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Tunelski_pojav" title="Tunelski pojav — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Efekti_tunel" title="Efekti tunel — albanais" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B5%D0%BB_%D0%B5%D1%84%D0%B5%D0%BA%D0%B0%D1%82" title="Тунел ефекат — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tunneleffekt" title="Tunneleffekt — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%88_%E0%AE%8A%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AF%81_%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="புரை ஊடுருவு மின்னோட்டம் — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kuantum_t%C3%BCnelleme" title="Kuantum tünelleme — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D1%8B" title="Туннель эффекты — tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B5%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Тунелювання — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Xuy%C3%AAn_h%E1%BA%A7m_l%C6%B0%E1%BB%A3ng_t%E1%BB%AD" title="Xuyên hầm lượng tử — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%A9%BF%E9%9A%A7%E6%95%88%E6%87%89" title="量子穿隧效應 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q175751#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 18 avril 2019 à 22:00.</li>
+								<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Effet_tunnel" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+								<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+								<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Effet_tunnel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.599","ppvisitednodes":{"value":1567,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":85777,"limit":2097152},"templateargumentsize":{"value":17955,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3369,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  277.213      1 -total"," 29.89%   82.868      1 Modèle:Palette"," 26.04%   72.192      1 Modèle:Palette_Mécanique_quantique"," 25.89%   71.778      1 Modèle:Cohen"," 25.73%   71.329      2 Modèle:Ouvrage"," 25.31%   70.170      1 Modèle:Portail"," 24.24%   67.196      1 Modèle:Méta_palette_de_navigation"," 15.56%   43.145      9 Modèle:Liste_éléments"," 10.19%   28.247      1 Modèle:Suivi_des_biographies","  9.14%   25.340      1 Modèle:Catégorisation_badges"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":2984390,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20190506170619","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Effet tunnel","url":"https:\/\/fr.wikipedia.org\/wiki\/Effet_tunnel","sameAs":"http:\/\/www.wikidata.org\/entity\/Q175751","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q175751","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-18T18:32:51Z","dateModified":"2019-04-18T20:00:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/32\/Effet_tunnel_quantique_et_principe_du_microscope_%C3%A0_effet_tunnel.ogv"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":735,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

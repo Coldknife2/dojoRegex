@@ -1,0 +1,9 @@
+ab
+a+b
+a?b
+a*b
+[ab]+b
+[ab]+?b
+[ab]*b
+[ab]*?b
+a{1,3}b

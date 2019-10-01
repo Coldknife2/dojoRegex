@@ -1,0 +1,24 @@
+(\w+\d+)+C
+et
+112649159593822611264915959382267958479584363
+
+Comment ré-écrire ?
+(\w+\d+)+C  => ((\d{2,})|\w+\d)C
+
+
+([a-zA-Z0-9]+[0-9]+)+
+(a+a+)+
+
+
+https://www.npmjs.com/advisories/55
+https://github.com/moment/moment/commit/52a807b961ead925be11ff5e632c8f7325a9ce36
+
+
+https://github.com/moment/moment/issues/4163
+https://github.com/moment/moment/pull/4326/files
+
+
+https://snyk.io/vuln/npm:moment:20161019
+https://github.com/moment/moment/commit/663f33e333212b3800b63592cd8e237ac8fabdb9
+
+https://www.regular-expressions.info/redos.html

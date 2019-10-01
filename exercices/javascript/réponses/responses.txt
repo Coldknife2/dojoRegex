@@ -1,0 +1,7 @@
+
+Exercice 3 : /^.+?(\[.+\]) Package: (.+?),version=(.+?),.+?RequestedState: Present/g
+
+Génome : /(?:\w{3})*?(ATG)((?:\w{3})*?)(TAG|TGA|TAA)/g
+Génome Bonus : /(?:\w{3})*?(TAC)((?:\w{3})*?)(ATC|ACT|ATT)/g
+
+

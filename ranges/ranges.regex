@@ -1,0 +1,11 @@
+[ag]
+[a-g]
+[AG]
+[A-G]
+[A-Za-z]
+
++ méta séquences 
+\b \w \W
+\u0025 \d
+
+[^a-g]

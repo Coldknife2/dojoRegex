@@ -1,0 +1,19 @@
+{
+  "name": "dojoRegex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "24.0.18",
+    "jest": "24.9.0",
+    "ts-jest": "24.0.2",
+    "typescript": "3.6.2"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "babel-jest": "24.9.0"
+  }
+}

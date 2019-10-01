@@ -1,0 +1,15 @@
+il s'est passé quelque chose 15:26Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet auctor est vitae porttitor. Vestibulum commodo nec magna sit amet egestas. Donec eu tristique massa. Vivamus vel orci vehicula, dignissim nulla semper, iaculis sapien. Proin consequat viverra augue at lacinia. Ut lobortis tellus et congue feugiat. Pellentesque posuere quam sed metus hendrerit, a eleifend enim rhoncus. Maecenas aliquet ac purus eu maximus. Donec at porttitor augue. Donec bibendum pharetra nibh, nec maximus ante pharetra iaculis. Suspendisse at lectus felis. Morbi ut lacus magna. Nunc id ante metus. Duis placerat lorem eget sapien ullamcorper egestas. 15:23 Duis in magna vestibulum, vestibulum odio a, condimentum felis. Nulla vel porttitor felis, vitae posuere sem. Vestibulum eu est et magna eleifend malesuada ut ut sapien. Nullam pharetra sapien nec lacus hendrerit elementum. Proin quam massa, congue ut dapibus eu, fringilla eu lorem. Sed tristique lobortis commodo. Nulla suscipit nisi dolor, et fermentum leo luctus vitae. Vivamus consectetur volutpat massa sed facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. Nullam fringilla nunc ante, vel rutrum libero luctus vel. Vivamus interdum velit a elit cursus, in aliquam ante volutpat. Nulla sit amet placerat massa. Nulla vitae nisl vehicula, posuere neque facilisis, egestas magna. Maecenas et convallis erat, non imperdiet orci. 15:26
+
+On souhaite avoir des logs organisés de cette manière :
+
+## heure
+texte
+
+## heure
+texte
+
+Tandis que eux sont écrits sous la forme : Texte Heure Texte Heure
+
+==> Ré-écrire en mieux ?
+
+=> Montrer comment passer du multiligne à la ligne simple
