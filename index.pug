@@ -1,0 +1,111 @@
+doctype html
+head
+  meta(charset='utf-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no')
+  title Dojo Regex
+  link(rel='stylesheet' href='css/reset.css')
+  link(rel='stylesheet' href='css/reveal.css')
+  link(rel='stylesheet' href='css/theme/black.css')
+  // Theme used for syntax highlighting of code
+  link(rel='stylesheet' href='lib/css/monokai.css')
+  // Printing and PDF exports
+  script.
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+.reveal
+  .slides
+    section
+      h1 Dojo Regexzzzeezz
+      div(style='display: flex; align-items: center; justify-content: space-between;')
+        img(width='128' height='128' data-src='https://www.axa.fr/content/dam/logo/logo-axa.svg')
+        div(style='font-size: 0.8em') Auteurs : R&eacute;mi Fruteau de Laclos, R&eacute;mi Boussu
+    section
+      section
+        | Regular Expressions, ce qu&apos;il y a &agrave; savoir
+      section
+        div Les RegEx permettent de d&eacute;crire un motif de correspondance
+        img(src='./imgs/regExp1.png')
+      section
+        div Il y a de nombreux moteurs d&rsquo;expressions r&eacute;guli&egrave;res
+        div Tous n&apos;impl&eacute;mentent pas toutes les specifications
+        a(href='https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines#Part_1' target='_blank' rel='noopener noreferrer')
+          img(src='./imgs/regExp2.png')
+    section
+      section
+        p M&ecirc;me avec de l&apos;exp&eacute;rience
+        | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;les grandes RegExp sont dures &agrave; lire
+        pre.
+
+      section
+        | Il vaut mieux s&apos;aider d&apos;outils visuels !
+      section
+        a(href='https://regex101.com/' target='_blank' rel='noopener noreferrer')
+          | Regex101
+          img(src='./imgs/regex101.png')
+      section
+        a(href='https://www.debuggex.com/' target='_blank' rel='noopener noreferrer')
+          | Debuggex
+          img(src='./imgs/debuggex.png')
+      section
+        p
+          | Je vous recommande pour les exercices &agrave; suivre d&apos;avoir au moins
+          a(href='https://regex101.com/' target='_blank' rel='noopener noreferrer') regex101
+          |  d&apos;ouvert
+    section
+      section Les ranges
+      section explications
+      section exercice(s)
+      section Les m&eacute;ta-s&eacute;quences
+      section explications
+      section exercice(s)
+    section
+      section Ou |
+      section explications
+      section exercice(s)
+    section
+      section Les flags
+      section explications
+      section exercice(s)
+    section
+      section Les ancres
+      section explications
+      section exercice(s)
+    section
+      section Les quantifieurs
+      section explications
+      section exercice(s)
+    section
+      section Lazy vs greedy
+      section explications
+      section exercice(s)
+    section
+      section Les groupes
+      section explications
+      section exercice(s)
+    section
+      section Les groupes
+      section explications
+      section exercice(s)
+    section
+      section Un mot sur les regex et la s&eacute;curit&eacute;
+      section Un DDOS avec une Regex ?
+      section Les &quot;Evil patterns&quot;
+      section Exemples
+      section Limiter la taille d&apos;input pour le traitement
+      section Exemples
+script(src='js/reveal.js')
+script.
+  // More info about config & dependencies:
+  // - https://github.com/hakimel/reveal.js#configuration
+  // - https://github.com/hakimel/reveal.js#dependencies
+  Reveal.initialize({
+  dependencies: [
+  { src: 'plugin/markdown/marked.js' },
+  { src: 'plugin/markdown/markdown.js' },
+  { src: 'plugin/notes/notes.js', async: true },
+  { src: 'plugin/highlight/highlight.js', async: true }
+  ]
+  });
