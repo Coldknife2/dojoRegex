@@ -5,7 +5,7 @@ head
   title Dojo Regex
   link(rel='stylesheet' href='css/reset.css')
   link(rel='stylesheet' href='css/reveal.css')
-  link(rel='stylesheet' href='css/theme/black.css')
+  link(rel='stylesheet' href='css/theme/beige.css')
   // Theme used for syntax highlighting of code
   link(rel='stylesheet' href='lib/css/monokai.css')
   // Printing and PDF exports
@@ -17,6 +17,10 @@ head
     document.getElementsByTagName( 'head' )[0].appendChild( link );
 .reveal
   .slides
+    include slides/intro.pug
+    include slides/a-savoir.pug
+    include slides/outils.pug
+    include slides/standard.pug    
     section
       h1 Dojo Regex
       div(style='display: flex; align-items: center; justify-content: space-between;')
