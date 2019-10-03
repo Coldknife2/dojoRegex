@@ -38,6 +38,19 @@ module.exports = grunt => {
 			}
 		},
 
+		pug: {
+			compile: {
+				options: {
+					data: {
+						debug: false
+					}
+				},
+				files: {
+					'index.html': ['index.pug']
+				}
+			}
+		},
+
 		sass: {
 			options: {
 				implementation: sass,
@@ -115,7 +128,7 @@ module.exports = grunt => {
 		zip: {
 			bundle: {
 				src: [
-					'index.html',
+					'./pages/index.html',
 					'css/**',
 					'js/**',
 					'lib/**',
@@ -152,6 +165,10 @@ module.exports = grunt => {
 			html: {
 				files: root.map(path => path + '/*.html')
 			},
+			pug: {
+				files: root.map(path => path + '/*.pug'),
+				tasks: 'pug:compile'
+			},
 			markdown: {
 				files: root.map(path => path + '/*.md')
 			},
@@ -181,7 +198,7 @@ module.exports = grunt => {
 	grunt.registerTask( 'package', [ 'default', 'zip' ] );
 
 	// Serve presentation locally
-	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
+	grunt.registerTask( 'serve', [ 'pug:compile', 'connect', 'watch' ] );
 
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
