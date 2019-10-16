@@ -5,7 +5,7 @@ head
   title Dojo Regex
   link(rel='stylesheet' href='css/reset.css')
   link(rel='stylesheet' href='css/reveal.css')
-  link(rel='stylesheet' href='css/theme/beige.css')
+  link(rel='stylesheet' href='css/theme/white.css')
   // Theme used for syntax highlighting of code
   link(rel='stylesheet' href='lib/css/monokai.css')
   // Printing and PDF exports
@@ -20,51 +20,8 @@ head
     include slides/intro.pug
     include slides/a-savoir.pug
     include slides/outils.pug
-    include slides/standard.pug    
-    section
-      h1 Dojo Regex
-      div(style='display: flex; align-items: center; justify-content: space-between;')
-        img(width='128' height='128' data-src='https://www.axa.fr/content/dam/logo/logo-axa.svg')
-        div(style='font-size: 0.8em') Auteurs : R&eacute;mi Fruteau de Laclos, R&eacute;mi Boussu
-    section
-      section
-        | Regular Expressions, ce qu&apos;il y a &agrave; savoir
-      section
-        div Les RegEx permettent de d&eacute;crire un motif de correspondance
-        img(src='./imgs/regExp1.png')
-      section
-        div Il y a de nombreux moteurs d&rsquo;expressions r&eacute;guli&egrave;res
-        div Tous n&apos;impl&eacute;mentent pas toutes les specifications
-        a(href='https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines#Part_1' target='_blank' rel='noopener noreferrer')
-          img(src='./imgs/regExp2.png')
-    section
-      section
-        p M&ecirc;me avec de l&apos;exp&eacute;rience
-        | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;les grandes RegExp sont dures &agrave; lire
-        pre.
-
-      section
-        | Il vaut mieux s&apos;aider d&apos;outils visuels !
-      section
-        a(href='https://regex101.com/' target='_blank' rel='noopener noreferrer')
-          | Regex101
-          img(src='./imgs/regex101.png')
-      section
-        a(href='https://www.debuggex.com/' target='_blank' rel='noopener noreferrer')
-          | Debuggex
-          img(src='./imgs/debuggex.png')
-      section
-        p
-          | Je vous recommande pour les exercices &agrave; suivre d&apos;avoir au moins
-          a(href='https://regex101.com/' target='_blank' rel='noopener noreferrer') regex101
-          |  d&apos;ouvert
-    section
-      section Les ranges
-      section explications
-      section exercice(s)
-      section Les m&eacute;ta-s&eacute;quences
-      section explications
-      section exercice(s)
+    include slides/standard.pug
+    include slides/ranges-metasequences.pug
     section
       section Ou |
       section explications
