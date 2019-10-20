@@ -1,0 +1,40 @@
+<section>
+    <section>
+        <div>Les groupes</div>
+        <div><span style="color:red">()</span></div>
+    </section>
+    <section>
+        <div>Les groupes ont deux fonctions :</div>
+        <br><div>Rassembler un ensemble de contraintes ensembles pour les quantifier/appliquer une logique</div>
+        <br><div>Capturer des valeurs</div>
+    </section>
+    <section>
+        <div>Rassembler les contraintes :</div>
+        <br><div>/ab+/ et /(ab)+/ sont interprétés différemment</div>
+        <br><div>Le premier est un a suivi du plus possible de b, avec au moins 1 b</div>
+        <br><div>Le second est un a suivi d'un b, le tout répété le plus possible de fois</div>
+    </section>
+    <section>
+        <div>On peut aussi faire un "OU" avec des groupes</div>
+        <br><div>/ab|cd/ et /a(b|c)d/ sont interprétés différemment</div>
+        <br><div>Le premier donne ab ou cd</div>
+        <br><div>Le second donne a et (b ou c) et d</div>
+    </section>
+    <section>
+        <div>La capture en regex</div>
+        <br><div>Par défaut, les groupes sont "Capturants"</div>
+        <br><div>Une regex permet de matcher un texte avec des contraintes données</div>
+        <br><div>Les groupes capturants permettent d'affiner des petits sous-ensemble et d'extraire de l'information</div>
+    </section>
+    <section>
+        <div>La capture en regex</div>
+        <br><div>Exemple : /\w+?@(\w+\.\w+)/ va matcher un email simple et capturer le nom de domaine</div>
+        <br><div><img src="./imgs/match.jpg"></div>
+    </section>
+    <section>
+        <div>La capture en regex</div>
+        <br><div>Les captures peuvent ensuite être utilisées :</div>
+        <br><div>Dans votre code, ex <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match"></a> </div>
+    </section>
+    <section>exercice(s)</section>
+</section>
