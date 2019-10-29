@@ -1,0 +1,99 @@
+section
+  section
+    div Les groupes
+    div
+      span(style='color:red') ()
+  section
+    h2 Les groupes ont deux fonctions :
+    br
+    div
+      | Rassembler un ensemble de contraintes ensembles pour les quantifier/appliquer une logique
+    br
+    div Capturer des valeurs
+  section
+    div Rassembler les contraintes :
+    br
+    div
+      | /
+      span(style='color:blue') ab
+      span(style='color:green') +
+      | / et /
+      span(style='color:red') (
+      span(style='color:blue') ab
+      span(style='color:red') )
+      span(style='color:green') +
+      | / sont interpr&eacute;t&eacute;s diff&eacute;remment
+    br
+    div
+      | Le premier est un 
+      span(style='color:blue') a
+      |  suivi du plus possible de 
+      span(style='color:blue') b
+      | , avec au moins 1 b
+    br
+    div
+      | Le second est un 
+      span(style='color:blue') a
+      |  suivi d&apos;un 
+      span(style='color:blue') b
+      | , le tout r&eacute;p&eacute;t&eacute; le plus possible de fois
+  section
+    div On peut aussi faire un &quot;OU&quot; avec des groupes
+    br
+    div
+      | /
+      span(style='color:blue') ab
+      | |
+      span(style='color:blue') cd
+      | / et /
+      span(style='color:blue') a
+      span(style='color:red') (
+      span(style='color:blue') b
+      | |
+      span(style='color:blue') c
+      span(style='color:red') )
+      span(style='color:blue') d
+      | / sont interpr&eacute;t&eacute;s diff&eacute;remment
+    br
+    div
+      | Le premier donne 
+      span(style='color:blue') ab
+      |  ou 
+      span(style='color:blue') cd
+    br
+    div
+      | Le second donne 
+      span(style='color:blue') a
+      |  et 
+      span(style='color:red') (
+      span(style='color:blue') b
+      |  ou 
+      span(style='color:blue') c
+      span(style='color:red') )
+      |  et 
+      span(style='color:blue') d
+  section
+    div La capture en regex
+    br
+    div Par d&eacute;faut, les groupes sont &quot;Capturants&quot;
+    br
+    div Une regex permet de matcher un texte avec des contraintes donn&eacute;es
+    br
+    div
+      | Les groupes capturants permettent d&apos;affiner des petits sous-ensemble et d&apos;extraire de l&apos;information
+  section
+    div La capture en regex
+    br
+    div
+      | Exemple : /\w+?@(\w+\.\w+)/ va matcher un email simple et capturer le nom de domaine
+    div
+      img(style='width:45%' src='./imgs/match.jpg')
+  section
+    div La capture en regex
+    br
+    div Les captures peuvent ensuite &ecirc;tre utilis&eacute;es :
+    br
+    div
+      | Dans votre code, ex 
+      a(href='https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match')
+  section exercice(s)

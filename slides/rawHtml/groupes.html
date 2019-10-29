@@ -4,21 +4,21 @@
         <div><span style="color:red">()</span></div>
     </section>
     <section>
-        <div>Les groupes ont deux fonctions :</div>
+        <h2>Les groupes ont deux fonctions :</h2>
         <br><div>Rassembler un ensemble de contraintes ensembles pour les quantifier/appliquer une logique</div>
         <br><div>Capturer des valeurs</div>
     </section>
     <section>
         <div>Rassembler les contraintes :</div>
-        <br><div>/ab+/ et /(ab)+/ sont interprétés différemment</div>
-        <br><div>Le premier est un a suivi du plus possible de b, avec au moins 1 b</div>
-        <br><div>Le second est un a suivi d'un b, le tout répété le plus possible de fois</div>
+        <br><div>/<span style="color:blue">ab</span><span style="color:green">+</span>/ et /<span style="color:red">(</span><span style="color:blue">ab</span><span style="color:red">)</span><span style="color:green">+</span>/ sont interprétés différemment</div>
+        <br><div>Le premier est un <span style="color:blue">a</span> suivi du plus possible de <span style="color:blue">b</span>, avec au moins 1 b</div>
+        <br><div>Le second est un <span style="color:blue">a</span> suivi d'un <span style="color:blue">b</span>, le tout répété le plus possible de fois</div>
     </section>
     <section>
         <div>On peut aussi faire un "OU" avec des groupes</div>
-        <br><div>/ab|cd/ et /a(b|c)d/ sont interprétés différemment</div>
-        <br><div>Le premier donne ab ou cd</div>
-        <br><div>Le second donne a et (b ou c) et d</div>
+        <br><div>/<span style="color:blue">ab</span>|<span style="color:blue">cd</span>/ et /<span style="color:blue">a</span><span style="color:red">(</span><span style="color:blue">b</span>|<span style="color:blue">c</span><span style="color:red">)</span><span style="color:blue">d</span>/ sont interprétés différemment</div>
+        <br><div>Le premier donne <span style="color:blue">ab</span> ou <span style="color:blue">cd</span></div>
+        <br><div>Le second donne <span style="color:blue">a</span> et <span style="color:red">(</span><span style="color:blue">b</span> ou <span style="color:blue">c</span><span style="color:red">)</span> et <span style="color:blue">d</span></div>
     </section>
     <section>
         <div>La capture en regex</div>
@@ -29,7 +29,7 @@
     <section>
         <div>La capture en regex</div>
         <br><div>Exemple : /\w+?@(\w+\.\w+)/ va matcher un email simple et capturer le nom de domaine</div>
-        <br><div><img src="./imgs/match.jpg"></div>
+        <div><img style="width:45%" src="./imgs/match.jpg"></div>
     </section>
     <section>
         <div>La capture en regex</div>
