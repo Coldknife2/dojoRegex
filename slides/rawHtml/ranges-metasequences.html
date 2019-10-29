@@ -8,30 +8,30 @@
     <section>
         <div>Les ranges décrivent un ensemble et sont encadrés par des <span style="color:green">[</span><span style="color:green">]</span></div>
         <div>Exemple : <span style="color:green">[</span><span style="color:blue">abcd</span><span style="color:green">]</span></div>
-        <br><div>Signifie : je veux matcher un caractère parmis ceux-ci : <span style="color:blue">abcd</span></div>
+        <br><div>Je veux matcher un caractère parmi ceux-ci : <span style="color:blue">abcd</span></div>
     </section>
     <section>
         <div>Il est également possible de décrire un ensemble avec la syntaxe <span style="color:green">[</span><span style="color:blue">debut</span><span style="color:red">-</span><span style="color:blue">fin</span><span style="color:green">]</span></div>
         <br><div>Exemple : <span style="color:green">[</span><span style="color:blue">a</span><span style="color:red">-</span><span style="color:blue">d</span><span style="color:green">]</span></div>
-        <br><div>Signifie : je veux matcher un caractère entre <span style="color:blue">a</span> et <span style="color:blue">d</span></div>
+        <br><div>Je veux matcher un caractère entre <span style="color:blue">a</span> et <span style="color:blue">d</span></div>
     </section>
     <section>
         <div>Les ranges <span style="color:green">[</span><span style="color:blue">debut</span><span style="color:red">-</span><span style="color:blue">fin</span><span style="color:green">]</span> fonctionnent</div>
         <div>avec les numéros de caractères unicode</div>
         <br><div>Exemple : <span style="color:green">[</span><span style="color:blue">あ</span><span style="color:red">-</span><span style="color:blue">ゖ</span><span style="color:green">]</span></div>
-        <div>Signifie : je veux matcher un caractère entre <span style="color:blue">le caractère あ de code unicode 12354</span> et <span style="color:blue">le caractère ゖ de code unicode 12438</span></div>
+        <div>Je veux matcher un caractère entre <span style="color:blue">le caractère あ de code unicode 12354</span> et <span style="color:blue">le caractère ゖ de code unicode 12438</span></div>
         <br><div>Pour avoir la liste des caractères et de leurs index, <a href="https://unicode-table.com/fr/#30B5" target='_blank' rel='noopener noreferrer'>ce site est pas mal</a></div>
     </section>
     <section>
         <div>Il existe aussi l'opération inverse : matcher un caractère qui ne fait pas parti d'un ensemble</div>
         <br><div>Cela s'écrit de la manière suivante : <span style="color:green">[</span><span>^</span><span style="color:blue">debut</span><span style="color:red">-</span><span style="color:blue">fin</span><span style="color:green">]</span></div>
         <br><div>Exemple : <span style="color:green">[</span><span>^</span><span style="color:blue">a</span><span style="color:red">-</span><span style="color:blue">d</span><span style="color:green">]</span></div>
-        <div>Signifie : je veux matcher un caractère qui ne se situe pas entre <span style="color:blue">a</span> et <span style="color:blue">d</span></div>
+        <div>Je veux matcher un caractère qui ne se situe pas entre <span style="color:blue">a</span> et <span style="color:blue">d</span></div>
     </section>
     <section>
         <div>Un <span style="color:green">[</span><span style="color:green">]</span> supporte très bien de multiples ranges</div>
-        <div>Exemple : <span style="color:green">[</span><span style="color:blue">a<span style="color:red">-</span>defgh<span style="color:red">-</span>m</span><span style="color:green">]</span></div>
-        <div><span style="color:green">[</span>^<span style="color:blue">a<span style="color:red">-</span>defgh<span style="color:red">-</span>m</span><span style="color:green">]</span></div>
+        <div>Exemple : <span style="color:green">[</span><span style="color:blue">a<span style="color:red">-</span>defg0<span style="color:red">-</span>9</span><span style="color:green">]</span></div>
+        <div><span style="color:green">[</span>^<span style="color:blue">a<span style="color:red">-</span>deEfFgO<span style="color:red">-</span>Z</span><span style="color:green">]</span></div>
     </section>
     <section>exercice(s)</section>
     <section>
@@ -49,7 +49,7 @@
         <br><div><span style="color:blue">. </span> : N'importe quel caractère sauf fin de ligne</div>
         <br><div><span style="color:blue">\d </span> : un chiffre</div>
         <br><div><span style="color:blue">\D </span> : un caractère non-chiffre</div>
-        <br><div><span style="color:blue">\w </span> : un caractère d'un mot</div>
+        <br><div><span style="color:blue">\w </span> : un caractère alphanumérique</div>
         <br><div><span style="color:blue">\W </span> : l'inverse de \w</div>
     </section>
     <section>
