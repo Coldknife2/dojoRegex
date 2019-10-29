@@ -1,0 +1,82 @@
+section
+  section Un mot sur les regex et la s&eacute;curit&eacute;
+  section
+    h2 Un DDOS avec une Regex ?
+    div
+      | Cela peut sembler surprenant, mais pourtant c&apos;est 
+      a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS')
+        | un risque reconnu et
+        | identifi&eacute; par l&apos;owasp
+  section
+    div
+      | Le principe est simple, des regex mal &eacute;crites peuvent avoir de longs temps d&apos;ex&eacute;cutions
+    br
+    div Il suffit d&apos;une seconde d&apos;ex&eacute;cution...
+    br
+    div Et de 10 000 requ&ecirc;tes/s
+  section
+    div Les &quot;Evil patterns&quot;
+    br
+    div
+      | d&eacute;signent des patterns faisant monter tr&egrave;s rapidement la complexit&eacute; et le temps d&apos;ex&eacute;cution
+  section
+    div En regex l&apos;evil pattern connu est :
+    br
+    div
+      | Un groupe 
+      span(style='color:red') ()
+      |  avec un quantifieur (
+      span(style='color:green') +
+      |  ou
+      span(style='color:green') *
+      | )
+    div
+      | Dans le groupe : expression avec un quantifieur 
+      span(style='color:green') +
+      span(style='color:green') *
+    div Ou : plusieurs possibilit&eacute;s qui s&apos;intersectent
+    br
+    div
+      span(style='color:red') (
+      | a
+      span(style='color:green') +
+      span(style='color:red') )
+      span(style='color:green') +
+    div
+      span(style='color:red') (
+      | a|aa
+      span(style='color:red') )
+      span(style='color:green') +
+    div
+      span(style='color:red') (
+      | a|a?
+      span(style='color:red') )
+      span(style='color:green') +
+  section
+    div
+      | Mais ce n&apos;est pas tout, il faut penser &agrave; la taille de l&apos;input analys&eacute; par la regex
+    div
+      | Car si l&apos;input n&apos;est pas limit&eacute;, la regex peut &ecirc;tre consid&eacute;r&eacute;e vuln&eacute;rable, m&ecirc;me pour 50 000 caract&egrave;res !
+    br
+    div
+      a(href='https://github.com/moment/moment/issues/4163') https://github.com/moment/moment/issues/4163
+    div
+      a(href='https://snyk.io/vuln/npm:moment:20161019') https://snyk.io/vuln/npm:moment:20161019
+  section
+    div Si on ne peut pas limiter l&apos;input en amont, on peut quand m&ecirc;me
+    br
+    div
+      | Limiter les r&eacute;p&eacute;titions : 
+      a(href='https://regex101.com/r/nOKjwk/1') /a+/ vs /a{1,2500}/
+    div
+      | Mettre une ancre &agrave; la regex : 
+      a(href='https://regex101.com/r/1nGrDr/3') /a+/ vs /^a+/
+  section
+    div En bref et de mani&egrave;re g&eacute;n&eacute;rale :
+    br
+    div &Eacute;vitez les Evil patterns au possible et
+    div
+      span(style='color:red') limitez
+      |  vos inputs, sinon 
+      span(style='color:red') limitez
+      |  les r&eacute;p&eacute;titions/div&gt;
