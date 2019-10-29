@@ -166,7 +166,7 @@ module.exports = grunt => {
 				files: root.map(path => path + '/*.html')
 			},
 			pug: {
-				files: root.map(path => path + '/*.pug'),
+				files: root.map(path => path + '/**/*.pug'),
 				tasks: 'pug:compile'
 			},
 			markdown: {
