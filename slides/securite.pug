@@ -3,8 +3,8 @@ section
   section
     h2 Un DDOS avec une Regex ?
     div
-      | Cela peut sembler surprenant, mais pourtant c&apos;est 
-      a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS')
+      | Cela peut sembler surprenant, mais pourtant c&apos;est
+      a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS' target='_blank' rel='noopener noreferrer')
         | un risque reconnu et
         | identifi&eacute; par l&apos;owasp
   section
@@ -59,24 +59,30 @@ section
       | Car si l&apos;input n&apos;est pas limit&eacute;, la regex peut &ecirc;tre consid&eacute;r&eacute;e vuln&eacute;rable, m&ecirc;me pour 50 000 caract&egrave;res !
     br
     div
-      a(href='https://github.com/moment/moment/issues/4163') https://github.com/moment/moment/issues/4163
+      a(href='https://github.com/moment/moment/issues/4163' target='_blank' rel='noopener noreferrer') https://github.com/moment/moment/issues/4163
     div
-      a(href='https://snyk.io/vuln/npm:moment:20161019') https://snyk.io/vuln/npm:moment:20161019
+      a(href='https://snyk.io/vuln/npm:moment:20161019' target='_blank' rel='noopener noreferrer')
+        | https://snyk.io/vuln/npm:moment:20161019
   section
     div Si on ne peut pas limiter l&apos;input en amont, on peut quand m&ecirc;me
     br
     div
       | Limiter les r&eacute;p&eacute;titions : 
-      a(href='https://regex101.com/r/nOKjwk/1') /a+/ vs /a{1,2500}/
+      a(href='https://regex101.com/r/nOKjwk/1' target='_blank' rel='noopener noreferrer') /a+/ vs /a{1,2500}/
     div
       | Mettre une ancre &agrave; la regex : 
-      a(href='https://regex101.com/r/1nGrDr/3') /a+/ vs /^a+/
+      a(href='https://regex101.com/r/1nGrDr/3' target='_blank' rel='noopener noreferrer') /a+/ vs /^a+/
   section
     div En bref et de mani&egrave;re g&eacute;n&eacute;rale :
     br
     div &Eacute;vitez les Evil patterns au possible et
+    div Limitez vos inputs, sinon limitez les r&eacute;p&eacute;titions
+  section
+    div Liens suppl&eacute;mentaires
+    br
     div
-      span(style='color:red') limitez
-      |  vos inputs, sinon 
-      span(style='color:red') limitez
-      |  les r&eacute;p&eacute;titions
+      a(href='https://www.npmjs.com/advisories/55' target='_blank' rel='noopener noreferrer') Du point de vue de NPMJS
+    div
+      a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS' target='_blank' rel='noopener noreferrer') Ce qu&apos;en dit OWASP
+    div
+      a(href='https://www.regular-expressions.info/redos.html' target='_blank' rel='noopener noreferrer') https://www.regular-expressions.info/redos.html

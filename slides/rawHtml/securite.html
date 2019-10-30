@@ -2,8 +2,9 @@
     <section>Un mot sur les regex et la s&eacute;curit&eacute;</section>
     <section>
         <h2>Un DDOS avec une Regex ?</h2>
-        <div>Cela peut sembler surprenant, mais pourtant c'est <a
-                href="https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS">un risque reconnu et
+        <div>Cela peut sembler surprenant, mais pourtant c'est
+            <a href="https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS" target='_blank'
+                rel='noopener noreferrer'>un risque reconnu et
                 identifié par l'owasp</a></div>
     </section>
     <section>
@@ -37,15 +38,19 @@
         <div>Car si l'input n'est pas limité, la regex peut être considérée vulnérable, même pour 50 000 caractères !
         </div>
         <br>
-        <div><a href="https://github.com/moment/moment/issues/4163">https://github.com/moment/moment/issues/4163</a>
+        <div><a href="https://github.com/moment/moment/issues/4163" target='_blank'
+                rel='noopener noreferrer'>https://github.com/moment/moment/issues/4163</a>
         </div>
-        <div><a href="https://snyk.io/vuln/npm:moment:20161019">https://snyk.io/vuln/npm:moment:20161019</a></div>
+        <div><a href="https://snyk.io/vuln/npm:moment:20161019" target='_blank' rel='noopener noreferrer'>
+                https://snyk.io/vuln/npm:moment:20161019</a></div>
     </section>
     <section>
         <div>Si on ne peut pas limiter l'input en amont, on peut quand même</div>
         <br>
-        <div>Limiter les répétitions : <a href="https://regex101.com/r/nOKjwk/1">/a+/ vs /a{1,2500}/</a></div>
-        <div>Mettre une ancre à la regex : <a href="https://regex101.com/r/1nGrDr/3">/a+/ vs /^a+/</a></div>
+        <div>Limiter les répétitions : <a href="https://regex101.com/r/nOKjwk/1" target='_blank'
+                rel='noopener noreferrer'>/a+/ vs /a{1,2500}/</a></div>
+        <div>Mettre une ancre à la regex : <a href="https://regex101.com/r/1nGrDr/3" target='_blank'
+                rel='noopener noreferrer'>/a+/ vs /^a+/</a></div>
     </section>
     <section>
         <div>En bref et de manière générale :</div>
@@ -56,8 +61,12 @@
     <section>
         <div>Liens supplémentaires</div>
         <br>
-        <div><a href="https://www.npmjs.com/advisories/55">https://www.npmjs.com/advisories/55</a></div>
-        <div><a href="https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS">https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS</a></div>
-        <div><a href="https://www.regular-expressions.info/redos.html">https://www.regular-expressions.info/redos.html</a></div>
+        <div><a href="https://www.npmjs.com/advisories/55" target='_blank'
+                rel='noopener noreferrer'>Du point de vue de NPMJS</a></div>
+        <div><a href="https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS" target='_blank'
+                rel='noopener noreferrer'>Ce qu'en dit OWASP</a>
+        </div>
+        <div><a href="https://www.regular-expressions.info/redos.html" target='_blank'
+                rel='noopener noreferrer'>https://www.regular-expressions.info/redos.html</a></div>
     </section>
 </section>

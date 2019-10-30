@@ -2,16 +2,21 @@
     <section>
         <h2>Optionnel/Note : En posix</h2>
         <br>
-        <div><span style="color:blue">\</span> matche littéralement <span style="color:blue">\</span>, il faut échapper toutes les structures spéciales</div>
+        <div><span style="color:blue">\</span> matche littéralement <span style="color:blue">\</span>, il faut échapper
+            toutes les structures spéciales</div>
         <div>ex: groupes : \<span style="color:red">(</span>\<span style="color:red">)</span></div>
     </section>
     <section>
-            <h2>Optionnel/Note : En posix</h2>
-            <br>
-            <div>Remplacements par <span style="color:orange">\1</span> à <span style="color:orange">\9</span></div>
-            <div><span style="color:orange">\0</span> groupe de base</div>
-            <div>Pour plus de détails : <a href="https://www.regular-expressions.info/posix.html">https://www.regular-expressions.info/posix.html</a></div>
-        </section>
+        <h2>Optionnel/Note : En posix</h2>
+        <br>
+        <div>Remplacements par <span style="color:orange">\1</span> à <span style="color:orange">\9</span></div>
+        <div><span style="color:orange">\0</span> groupe de base</div>
+        <div>Pour plus de détails :
+            <a href="https://www.regular-expressions.info/posix.html" target='_blank' rel='noopener noreferrer'>
+                https://www.regular-expressions.info/posix.html
+            </a>
+        </div>
+    </section>
     <section>
         <div>POSIX est utilisé par sed, grep et quelques commandes unix</div>
     </section>
@@ -28,7 +33,8 @@
         </div>
     </section>
     <section>
-        <div>Je veux garder l'année et le mois, en format américain (yyyy-mm) pour que cela se trie tout seul par nom</div>
+        <div>Je veux garder l'année et le mois, en format américain (yyyy-mm) pour que cela se trie tout seul par nom
+        </div>
         <div data-markdown="">
             ```
             ls | sed 's/BUL..........\(..\)\(....\)..../"\0" "\2-\1.pdf"/' | xargs -n 2 mv
