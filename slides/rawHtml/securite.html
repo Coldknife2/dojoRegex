@@ -53,20 +53,37 @@
                 rel='noopener noreferrer'>/a+/ vs /^a+/</a></div>
     </section>
     <section>
-        <div>En bref et de manière générale :</div>
+        <div>Certains langages (comme le .Net) ont un petit avantage :</div>
+        <br>
+        <div>
+            <a href="https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/best-practices#use-time-out-values"
+                target='_blank' rel='noopener noreferrer'>Ils peuvent mettre en place des timeout sur l'exécution des
+                Regex</a>
+        </div>
+        <br>
+        <div>
+            Ca ne fait pas de mal de vérifier que son langage prenne en compte ou non cette fonctionnalité, et de s'en
+            servir
+        </div>
+    </section>
+    <section>
+        <div>En récapitulé:</div>
         <br>
         <div>Évitez les Evil patterns au possible et</div>
         <div>Limitez vos inputs, sinon limitez les répétitions</div>
+        <div>Utilisez les timeouts si vous en avez</div>
     </section>
     <section>
         <div>Liens supplémentaires</div>
         <br>
-        <div><a href="https://www.npmjs.com/advisories/55" target='_blank'
-                rel='noopener noreferrer'>Du point de vue de NPMJS</a></div>
+        <div><a href="https://www.npmjs.com/advisories/55" target='_blank' rel='noopener noreferrer'>Du point de vue de
+                NPMJS</a></div>
         <div><a href="https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS" target='_blank'
-                rel='noopener noreferrer'>Ce qu'en dit OWASP</a>
-        </div>
+                rel='noopener noreferrer'>Ce qu'en dit OWASP</a></div>
+        <div><a href="https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/best-practices" target='_blank'
+                rel='noopener noreferrer'>Documentation Microsoft Best practices regex</a></div>
         <div><a href="https://www.regular-expressions.info/redos.html" target='_blank'
                 rel='noopener noreferrer'>https://www.regular-expressions.info/redos.html</a></div>
+
     </section>
 </section>

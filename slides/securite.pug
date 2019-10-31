@@ -73,16 +73,32 @@ section
       | Mettre une ancre &agrave; la regex : 
       a(href='https://regex101.com/r/1nGrDr/3' target='_blank' rel='noopener noreferrer') /a+/ vs /^a+/
   section
-    div En bref et de mani&egrave;re g&eacute;n&eacute;rale :
+    div Certains langages (comme le .Net) ont un petit avantage :
+    br
+    div
+      a(href='https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/best-practices#use-time-out-values' target='_blank' rel='noopener noreferrer')
+        | Ils peuvent mettre en place des timeout sur l&apos;ex&eacute;cution des
+        | Regex
+    br
+    div
+      | Ca ne fait pas de mal de v&eacute;rifier que son langage prenne en compte ou non cette fonctionnalit&eacute;, et de s&apos;en
+      | servir
+  section
+    div En r&eacute;capitul&eacute;:
     br
     div &Eacute;vitez les Evil patterns au possible et
     div Limitez vos inputs, sinon limitez les r&eacute;p&eacute;titions
+    div Utilisez les timeouts si vous en avez
   section
     div Liens suppl&eacute;mentaires
     br
     div
-      a(href='https://www.npmjs.com/advisories/55' target='_blank' rel='noopener noreferrer') Du point de vue de NPMJS
+      a(href='https://www.npmjs.com/advisories/55' target='_blank' rel='noopener noreferrer')
+        | Du point de vue de
+        | NPMJS
     div
       a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS' target='_blank' rel='noopener noreferrer') Ce qu&apos;en dit OWASP
+    div
+      a(href='https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/best-practices' target='_blank' rel='noopener noreferrer') Documentation Microsoft Best practices regex
     div
       a(href='https://www.regular-expressions.info/redos.html' target='_blank' rel='noopener noreferrer') https://www.regular-expressions.info/redos.html

@@ -21,17 +21,17 @@
         <div>POSIX est utilisé par sed, grep et quelques commandes unix</div>
     </section>
     <section>
-        <div>Mise en situation</div><br>
-        <div>On a ces trois PDF dans un dossier,</div>
-        <div>avec à la fin le jour, mois puis année</div>
-        <div data-markdown="">
-            ```
-            BUL0064137631032018.pdf
-            BUL0064137631072019.pdf
-            BUL0064137631032019.pdf
-            ```
-        </div>
-    </section>
+            <div>Mise en situation</div><br>
+            <div>On a ces trois PDF dans un dossier,</div>
+            <div>avec à la fin le jour, mois puis année</div>
+            <div data-markdown="">
+                ```
+                BUL0064137631032018.pdf
+                BUL0064137631072019.pdf
+                BUL0064137631032019.pdf
+                ```
+            </div>
+        </section>
     <section>
         <div>Je veux garder l'année et le mois, en format américain (yyyy-mm) pour que cela se trie tout seul par nom
         </div>
@@ -45,6 +45,15 @@
             ls | sed 's/BUL.\{10\}\(.\{2\}\)\(.\{4\}\)/"\0" "\2-\1.pdf"' | xargs -n 2 mv
             ```
         </div>
-        <div>Mes pdfs ont étés renommés 2018-02.pdf, 2019-05.pdf ... etc</div>
     </section>
+    <section>
+            <div>Mes pdfs ont étés renommés</div><br>
+            <div data-markdown="">
+                ```
+                2018-03.pdf
+                2019-07.pdf
+                2019-03.pdf
+                ```
+            </div>
+        </section>
 </section>
