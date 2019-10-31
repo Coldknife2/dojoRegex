@@ -9,16 +9,19 @@ section
       span(style='color:green') +
       |  et 
       span(style='color:green') *
-      |  sont dit 
+      |  sont
+      |             dit 
       span(style='color:red') Greedy
     br
     div
-      | Cela signifie qu&apos;ils vont matcher autant de caract&egrave;res que possible avant d&apos;arriver &agrave; la prochaine contrainte
+      | Cela signifie qu&apos;ils vont matcher autant de caract&egrave;res que possible avant d&apos;arriver &agrave; la prochaine
+      | contrainte
   section
     div
       | A l&apos;inverse, si on rend un quantifieur 
       span(style='color:red') Lazy
-      | , il s&apos;arr&ecirc;tera &agrave; la premi&egrave;re occasion
+      | , il s&apos;arr&ecirc;tera &agrave; la premi&egrave;re
+      |             occasion
   section
     div
       | L&apos;op&eacute;rateur permettant de rendre un quantifieur 
@@ -41,4 +44,16 @@ section
     | Exemple : rendez lazy l&apos;expression, et voyez le r&eacute;sultat :
     a(href='https://regex101.com/r/YNVYfP/4' target='_blank' rel='noopener noreferrer')
       img(src='./imgs/lazyGreedy.jpg')
-  section exercice(s)
+  section
+    div Exercice(s)
+    br
+    .simpleRowFlex
+      div
+        a(href='' target='_blank' rel='noopener noreferrer')
+          | Exercice 1
+      div
+        a(href='' target='_blank' rel='noopener noreferrer')
+          | Exercice 2
+      div
+        a(href='' target='_blank' rel='noopener noreferrer')
+          | Exercice 3
