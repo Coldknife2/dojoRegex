@@ -199,6 +199,9 @@ module.exports = grunt => {
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'pug:compile', 'connect', 'watch' ] );
+	
+	// Serve presentation locally
+	grunt.registerTask( 'build', [ 'pug:compile'] );
 
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
