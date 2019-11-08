@@ -1,11 +1,13 @@
 section
+  section
+    h1 La s&eacute;curit&eacute;
   section Un mot sur les regex et la s&eacute;curit&eacute;
   section
-    h2 Un DDOS avec une Regex ?
+    h2 Un DDOS avec une RegExp ?
     div
-      | Cela peut sembler surprenant, mais pourtant c&apos;est 
+      | Cela peut sembler surprenant, mais pourtant c&apos;est
       a(href='https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS' target='_blank' rel='noopener noreferrer')
-        | un risque reconnu et
+        | &nbsp;un risque reconnu et
         | identifi&eacute; par l&apos;owasp
   section
     div
@@ -23,17 +25,17 @@ section
     div En regex l&apos;evil pattern connu est :
     br
     div
-      | Un groupe 
-      span(style='color:red') ()
+      | Un groupe
+      span(style='color:red') &nbsp;()
       |  avec un quantifieur (
       span(style='color:green') +
       |  ou
-      span(style='color:green') *
+      span(style='color:green') &nbsp;*
       | )
     div
-      | Dans le groupe : expression avec un quantifieur 
-      span(style='color:green') +
-      span(style='color:green') *
+      | Dans le groupe : expression avec un quantifieur
+      span(style='color:green') &nbsp;+
+      span(style='color:green') &nbsp;*
     div Ou : plusieurs possibilit&eacute;s qui s&apos;intersectent
     br
     div
@@ -67,10 +69,10 @@ section
     div Si on ne peut pas limiter l&apos;input en amont, on peut quand m&ecirc;me
     br
     div
-      | Limiter les r&eacute;p&eacute;titions : 
+      | Limiter les r&eacute;p&eacute;titions :&nbsp;
       a(href='https://regex101.com/r/nOKjwk/1' target='_blank' rel='noopener noreferrer') /a+/ vs /a{1,2500}/
     div
-      | Mettre une ancre &agrave; la regex : 
+      | Mettre une ancre &agrave; la regex :&nbsp;
       a(href='https://regex101.com/r/1nGrDr/3' target='_blank' rel='noopener noreferrer') /a+/ vs /^a+/
   section
     div Certains langages (comme le .Net) ont un petit avantage :
@@ -84,9 +86,9 @@ section
       | Ca ne fait pas de mal de v&eacute;rifier que son langage prenne en compte ou non cette fonctionnalit&eacute;, et de s&apos;en
       | servir
   section
-    div En r&eacute;capitul&eacute;:
+    div En r&eacute;sum&eacute;
     br
-    div &Eacute;vitez les Evil patterns au possible et
+    div &Eacute;vitez les Evil patterns au possible
     div Limitez vos inputs, sinon limitez les r&eacute;p&eacute;titions
     div Utilisez les timeouts si vous en avez
   section

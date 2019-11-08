@@ -169,6 +169,10 @@ module.exports = grunt => {
 				files: root.map(path => path + '/**/*.pug'),
 				tasks: 'pug:compile'
 			},
+			sass: {
+				files: root.map(path => path + '/**/*.scss'),
+				tasks: 'sass'
+			},
 			markdown: {
 				files: root.map(path => path + '/*.md')
 			},
@@ -199,7 +203,7 @@ module.exports = grunt => {
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'pug:compile', 'connect', 'watch' ] );
-	
+
 	// Serve presentation locally
 	grunt.registerTask( 'build', [ 'pug:compile'] );
 

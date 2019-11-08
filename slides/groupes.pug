@@ -1,6 +1,7 @@
 section
   section
-    div Les groupes
+    h1 Les groupes
+  section
     div
       span(style='color:red') ()
   section
@@ -25,19 +26,21 @@ section
       | / sont interpr&eacute;t&eacute;s diff&eacute;remment
     br
     div
-      | Le premier est un 
-      span(style='color:blue') a
-      |  suivi du plus possible de 
-      span(style='color:blue') b
-      | , avec au moins 1 b
+      | Le premier est un
+      span(style='color:blue') &nbsp;a
+      |  suivi du plus possible de
+      span(style='color:blue') &nbsp;b
+      | , avec au moins 1 b. Exemple :
+      span(style='color:blue') abbbb
     br
     div
-      | Le second est un 
-      span(style='color:blue') a
-      |  suivi d&apos;un 
-      span(style='color:blue') b
+      | Le second est un
+      span(style='color:blue') &nbsp;a
+      |  suivi d&apos;un
+      span(style='color:blue') &nbsp;b
       | , le tout
-      |             r&eacute;p&eacute;t&eacute; le plus possible de fois
+      | r&eacute;p&eacute;t&eacute; le plus possible de fois. Exemple :
+      span(style='color:blue') ababab
   section
     div On peut aussi faire un &quot;OU&quot; avec des groupes
     br
@@ -58,26 +61,26 @@ section
       |             interpr&eacute;t&eacute;s diff&eacute;remment
     br
     div
-      | Le premier donne 
-      span(style='color:blue') ab
-      |  ou 
-      span(style='color:blue') cd
+      | Le premier donne
+      span(style='color:blue') &nbsp;ab
+      |  ou
+      span(style='color:blue') &nbsp;cd
     br
     div
-      | Le second donne 
-      span(style='color:blue') a
-      |  et 
-      span(style='color:red') (
+      | Le second donne
+      span(style='color:blue') &nbsp;a
+      |  et
+      span(style='color:red') &nbsp;(
       span(style='color:blue') b
-      |  ou 
-      span(style='color:blue') c
+      |  ou
+      span(style='color:blue') &nbsp;c
       span(style='color:red') )
       |  et
-      span(style='color:blue') d
+      span(style='color:blue') &nbsp;d
   section
     div La capture en regex
     br
-    div Par d&eacute;faut, les groupes sont &quot;Capturants&quot;
+    div Par d&eacute;faut, les groupes sont &quot;capturants&quot;
     br
     div Une regex permet de matcher un texte avec des contraintes donn&eacute;es
     br
@@ -87,17 +90,15 @@ section
     div La capture en regex
     br
     div
-      | Exemple : /\w+?@(\w+\.\w+)/ va matcher un email simple et capturer le nom de domaine
+      | Exemple : /.+@(.*)/ va matcher un email simple et capturer le nom de domaine
     div
-      a(href='https://regex101.com/r/HEbasp/2' target='_blank' rel='noopener noreferrer')
+      a(href='https://regex101.com/r/HEbasp/3' target='_blank' rel='noopener noreferrer')
         img(style='width:45%' src='./imgs/match.jpg')
   section
-    div La capture en regex
-    br
     div Les captures peuvent ensuite &ecirc;tre utilis&eacute;es
     br
     div
-      a(href='https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match' target='_blank' rel='noopener noreferrer')
+      a(href='https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/match#Exemples' target='_blank' rel='noopener noreferrer')
         | Dans votre code
   section
     div On peut aussi directement donner un texte de remplacement, comme sur Notepad++
@@ -118,14 +119,14 @@ section
     div
       | $
       span(style='color:red') 1
-      |  repr&eacute;sente la 
-      span(style='color:red') 1
+      |  repr&eacute;sente la
+      span(style='color:red') &nbsp;1
       | &egrave;re capture
     div
       | $
       span(style='color:red') 2
-      |  la 
-      span(style='color:red') 2
+      |  la
+      span(style='color:red') &nbsp;2
       | &egrave;me, ...etc
     br
     div
@@ -134,7 +135,7 @@ section
   section
     div Parfois aussi on souhaite avoir un groupe sans matcher
     div
-      | La syntaxe est alors : 
+      | La syntaxe est alors :
       span(style='color:red') (?:)
     div Le groupe devient non-capturant
     br
@@ -154,3 +155,6 @@ section
       div
         a(href='https://regex101.com/r/eqnNAF/1' target='_blank' rel='noopener noreferrer')
           | Exercice 3
+      div
+        a(href='https://regex101.com/r/9496pM/3' target='_blank' rel='noopener noreferrer')
+          | Exercice 4

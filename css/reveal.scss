@@ -505,9 +505,9 @@ $controlsArrowAngleActive: 36deg;
 .reveal .progress {
 	position: absolute;
 	display: none;
-	height: 3px;
+	height: 12px;
 	width: 100%;
-	bottom: 0;
+	top: 0;
 	left: 0;
 	z-index: 10;
 
@@ -1765,4 +1765,10 @@ $notesWidthPercent: 25%;
 
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
+}
+
+.logo {
+	background-image: url('/imgs/logo-axa.svg');
+	height: 128px;
+	width: 128px;
 }
