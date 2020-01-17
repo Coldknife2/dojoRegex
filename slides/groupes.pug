@@ -11,8 +11,7 @@ section
     br
     div Capturer des valeurs
   section
-    div Rassembler les contraintes
-    br
+    h3 Rassembler les contraintes
     div
       | /
       span(style='color:blue') ab
@@ -23,23 +22,41 @@ section
       span(style='color:red') )
       span(style='color:green') +
       | / sont interpr&eacute;t&eacute;s diff&eacute;remment
-    br
-    div
-      | Le premier est un
-      span(style='color:blue') &nbsp;a
-      |  suivi du plus possible de
-      span(style='color:blue') &nbsp;b
-      | , avec au moins 1 b. Exemple :
-      span(style='color:blue') abbbb
-    br
-    div
-      | Le second est un
-      span(style='color:blue') &nbsp;a
-      |  suivi d&apos;un
-      span(style='color:blue') &nbsp;b
-      | , le tout
-      | r&eacute;p&eacute;t&eacute; le plus possible de fois. Exemple :
-      span(style='color:blue') ababab
+    table
+      thead
+        tr
+          th Input
+          th(style='color:grey') /ab+/
+          th(style='color:grey') /(ab)+/
+      tbody
+        tr
+          td ab
+          td
+            span(style='color:blue') ab
+          td
+            span(style='color:blue') ab
+        tr
+          td abb
+          td
+            span(style='color:blue') abb
+          td
+            span(style='color:blue') ab
+            |b
+        tr
+          td abab
+          td
+            span(style='color:blue') ab
+            |ab
+          td
+            span(style='color:blue') abab
+        tr
+          td abbbbbaaabbbbb
+          td
+            span(style='color:blue') abbbbb
+            |aaabbbbb
+          td
+            span(style='color:blue') ab
+            |bbbbaaabbbbb
   section
     div On peut aussi faire un &quot;OU&quot; avec des groupes
     br
@@ -56,14 +73,10 @@ section
       span(style='color:blue') c
       span(style='color:red') )
       span(style='color:blue') d
-      | / sont
-      |             interpr&eacute;t&eacute;s diff&eacute;remment
+      | / sont interpr&eacute;t&eacute;s diff&eacute;remment
     br
     div
-      | Le premier donne
-      span(style='color:blue') &nbsp;ab
-      |  ou
-      span(style='color:blue') &nbsp;cd
+      | Le premier donne #[span(style='color:blue') ab] ou #[span(style='color:blue') cd]
     br
     div
       | Le second donne
@@ -77,17 +90,15 @@ section
       |  et
       span(style='color:blue') &nbsp;d
   section
-    div La capture en regex
+    h3 La capture en regex
     br
-    div Par d&eacute;faut, les groupes sont &quot;capturants&quot;
+    div Par d&eacute;faut, les groupes sont #[strong capturants]
     br
     div Une regex permet de matcher un texte avec des contraintes donn&eacute;es
     br
     div
       | Les groupes capturants permettent d&apos;affiner des petits sous-ensemble et d&apos;extraire de l&apos;information
   section
-    div La capture en regex
-    br
     div
       | Exemple : /.+@(.*)/ va matcher un email simple et capturer le nom de domaine
     div
