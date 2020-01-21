@@ -54,6 +54,7 @@ section
       span(style='color:blue') a
       |  et&nbsp;
       span(style='color:blue') d
+      | : #[span(style='color:blue') abcd]
   section
     div
       | Les ranges&nbsp;
@@ -112,28 +113,18 @@ section
       | Un&nbsp;
       span(style='color:green') [
       span(style='color:green') ]
-      |  supporte tr&egrave;s bien de multiples
-      |             ranges
-    div
-      | Exemple :&nbsp;
-      span(style='color:green') [
-      span(style='color:blue')
-        | a
-        span(style='color:red') -
-        | defg0
-        span(style='color:red') -
-        | 9
-      span(style='color:green') ]
-    div
-      span(style='color:green') [
-      | ^
-      span(style='color:blue')
-        | a
-        span(style='color:red') -
-        | deEfFgO
-        span(style='color:red') -
-        | Z
-      span(style='color:green') ]
+      |  supporte tr&egrave;s bien de multiples ranges
+    br
+    table
+      thead
+        tr
+          th(style='color:grey') [a-defg0-9]
+          th(style='color:grey') [^a-deEfFgO-Z]
+      tbody
+        tr
+          td abcdefg<br>0123456789
+          td hijklmonpqrstuvwxyz<br>ABCDGHIJKLMN<br>0123456789
+        tr
   section
     div Exercice(s)
     br
