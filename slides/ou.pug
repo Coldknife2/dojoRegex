@@ -5,7 +5,14 @@ section
       span(style='color:green') |
   section
     div Par d&eacute;faut, les regex font un &quot;ET&quot;
-    div /abcd/ : je veux matcher a ET b ET c ET d
+    div 
+      | /abcd/ : je veux matcher a 
+      span(style='color:red') et 
+      | b 
+      span(style='color:red') et 
+      | c 
+      span(style='color:red') et 
+      | d
     div
       a(href='https://regex101.com/r/zIvKDi/1' target='_blank' rel='noopener noreferrer')
         img(src='./imgs/etSimple.jpg')
@@ -15,7 +22,9 @@ section
       span(style='color:blue') abcd
       span(style='color:green') ]
       | d/
-      |             : matche un caract&egrave;re parmi abcd ET d
+      |             : matche un caract&egrave;re parmi abcd 
+      span(style='color:red') et 
+      | d
     div
       a(href='https://regex101.com/r/q0mMeT/1' target='_blank' rel='noopener noreferrer')
         img(src='./imgs/et.jpg')
@@ -27,10 +36,3 @@ section
     div
       a(href='https://regex101.com/r/XamDIm/1' target='_blank' rel='noopener noreferrer')
         img(src='./imgs/ou.jpg')
-  section
-    div Exercice(s)
-    br
-    .simpleRowFlex
-      div
-        a(href='https://regex101.com/r/eqnNAF/1' target='_blank' rel='noopener noreferrer')
-          | Exercice
