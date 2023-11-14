@@ -6,7 +6,7 @@ export default defineConfig({
   base: "./",
   build: {
     rollupOptions: {
-      input: ["prez.html"],
+      input: ["index.html"],
       output: {
         chunkFileNames: "[name]-[hash].js",
         entryFileNames: "[name]-[hash].js",
