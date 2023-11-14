@@ -1,7 +1,7 @@
 <section>
   <section>
     <h1>Les quantifieurs</h1>
-    <div><span style="color:green">+ * {1,5} {5} ?</span></div>
+    <div><span style="color:green">+ * {'{'}1,5{'}'} {'{'}5{'}'} ?</span></div>
   </section>
   <section>
     <div>Les quantifieurs se mettent apr&egrave;s :</div><br/>
@@ -12,8 +12,8 @@
   <section>
     <div><span style="color:green">+</span> &quot;1 et plus&quot;</div>
     <div><span style="color:green">*</span> &quot;0 et plus&quot;</div>
-    <div><span style="color:green">{5}</span> &quot;5 exactement&quot;</div>
-    <div><span style="color:green">{5,8}</span> &quot;de 5 &agrave; 8&quot;</div>
+    <div><span style="color:green">{'{'}5{'}'}</span> &quot;5 exactement&quot;</div>
+    <div><span style="color:green">{'{'}5,8{'}'}</span> &quot;de 5 &agrave; 8&quot;</div>
     <div><span style="color:green">?</span> &quot;0 ou 1&quot;</div>
   </section>
 </section>

@@ -6,7 +6,7 @@
 <section>
   <section>
     <h1>Les caract&egrave;res sp&eacute;ciaux</h1>
-    <div><span style="color:green">\ ^ $ . | ? * + ( ) [ {"{"}</span></div>
+    <div><span style="color:green">\ ^ $ . | ? * + ( ) [ ] {"{"} {"}"}</span></div>
   </section>
   <section>
     <p>Par d&eacute;faut la regex va tenter de matcher</p>
