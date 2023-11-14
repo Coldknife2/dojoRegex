@@ -4,9 +4,9 @@
   </section>
   <section>
     <div>
-      <span style="color:blue">\</span> matche litt&eacute;ralement
-      <span style="color:blue">\</span> il faut &eacute;chapper toutes les structures
-      sp&eacute;ciales
+      <span style="color:blue">\</span> matche littéralement
+      <span style="color:blue">\</span> il faut échapper toutes les structures
+      spéciales
     </div>
     <div>
       ex: groupes : \<span style="color:red">(</span>\<span style="color:red"
@@ -15,7 +15,7 @@
     </div>
   </section>
   <section>
-    <div>POSIX est utilis&eacute; par sed, grep et quelques commandes unix</div>
+    <div>POSIX est utilisé par sed, grep et quelques commandes unix</div>
   </section>
   <section>
     <h2>Optionnel/Note : En posix</h2>
@@ -27,7 +27,7 @@
     </div>
     <div><span style="color:orange">\0</span> groupe de base</div>
     <div>
-      Pour plus de d&eacute;tails : <a
+      Pour plus de détails : <a
         href="https://www.regular-expressions.info/posix.html"
         target="_blank"
         rel="noopener noreferrer"
@@ -39,7 +39,7 @@
     <div>Mise en situation</div>
     <br />
     <div>On a ces trois PDF dans un dossier,</div>
-    <div>avec &agrave; la fin le jour, mois puis ann&eacute;e</div>
+    <div>avec &agrave; la fin le jour, mois puis année</div>
       <pre>
         <code
           >BUL0064137631032018.pdf
@@ -50,7 +50,7 @@ BUL0064137631032019.pdf
   </section>
   <section>
     <div>
-      Je veux garder l&apos;ann&eacute;e et le mois, en format am&eacute;ricain
+      Je veux garder l&apos;année et le mois, en format américain
       (yyyy-mm) pour que cela se trie tout seul par nom
     </div>
     <pre>
@@ -62,7 +62,7 @@ BUL0064137631032019.pdf
           </pre>
   </section>
   <section>
-    <div>Mes pdfs ont &eacute;t&eacute;s renomm&eacute;s</div>
+    <div>Mes pdfs ont étés renommés</div>
     <br />
       <pre>
   <code>2018-03.pdf

@@ -5,11 +5,11 @@
 
 <section>
   <section>
-    <h1>Les caract&egrave;res sp&eacute;ciaux</h1>
+    <h1>Les caract&egrave;res spéciaux</h1>
     <div><span style="color:green">\ ^ $ . | ? * + ( ) [ ] {"{"} {"}"}</span></div>
   </section>
   <section>
-    <p>Par d&eacute;faut la regex va tenter de matcher</p>
+    <p>Par défaut la regex va tenter de matcher</p>
     <p>tous les caract&egrave;res exactement</p>
     <a
       href="https://regex101.com/r/MgjCmQ/1"
@@ -18,14 +18,14 @@
     >
   </section>
   <section>
-    <p>Sauf que cela ne suffisait pas pour d&eacute;crire</p>
+    <p>Sauf que cela ne suffisait pas pour décrire</p>
     <p>des ensembles, sous-ensembles, et avoir</p>
     <p>un peu de logique</p>
   </section>
   <section>
-    <p>Pour matcher sur ces caract&egrave;res sp&eacute;ciaux</p>
+    <p>Pour matcher sur ces caract&egrave;res spéciaux</p>
     <p>
-      il faut les &eacute;chapper avec un <span style="color:green">\</span>
+      il faut les échapper avec un <span style="color:green">\</span>
     </p>
     <a
       href="https://regex101.com/r/cP6Mov/1"

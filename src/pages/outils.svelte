@@ -8,7 +8,7 @@
     <h1>Les outils</h1>
   </section>
   <section>
-    <p>M&ecirc;me avec de l&apos;exp&eacute;rience</p>
+    <p>M&ecirc;me avec de l&apos;expérience</p>
     &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;les grandes RegExp sont dures &agrave; lire
     <pre>
       <code class="language-javascript">const regExp = /^(([^&lt;&gt;()\[\]\\.,;:\s@&quot;]+(\.[^&lt;&gt;()\[\]\\.,;:\s@&quot;]+)*)(&quot;.+&quot;))@((\[[0-9]{(1,

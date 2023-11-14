@@ -5,7 +5,7 @@
 
 <section>
   <section>
-    <h1>Les ranges et les m&eacute;ta-s&eacute;quences</h1>
+    <h1>Les ranges et les méta-séquences</h1>
     <div>
       <span style="color:green">[</span><span style="color:blue">abcd</span
       ><span style="color:green">]</span><span>&nbsp;</span><span
@@ -21,7 +21,7 @@
   </section>
   <section>
     <div>
-      Les ranges d&eacute;crivent un ensemble et sont encadr&eacute;s par
+      Les ranges décrivent un ensemble et sont encadrés par
       des&nbsp;<span style="color:green">[</span><span style="color:green"
         >]</span
       >
@@ -40,7 +40,7 @@
   </section>
   <section>
     <div>
-      Il est &eacute;galement possible de d&eacute;crire un ensemble avec la
+      Il est également possible de décrire un ensemble avec la
       syntaxe&nbsp;<span style="color:green">[</span><span style="color:blue"
         >debut</span
       ><span style="color:red">-</span><span style="color:blue">fin</span><span
@@ -72,7 +72,7 @@
         style="color:green">]</span
       > fonctionnent
     </div>
-    <div>avec les num&eacute;ros de caract&egrave;res unicode</div>
+    <div>avec les numéros de caract&egrave;res unicode</div>
     <br />
     <div>
       Exemple :&nbsp;<span style="color:green">[</span><span style="color:blue"
@@ -99,12 +99,12 @@
   </section>
   <section>
     <div>
-      Il existe aussi l&apos;op&eacute;ration inverse : matcher un
+      Il existe aussi l&apos;opération inverse : matcher un
       caract&egrave;re qui ne fait pas parti d&apos;un ensemble
     </div>
     <br />
     <div>
-      Cela s&apos;&eacute;crit de la mani&egrave;re suivante :&nbsp;<span
+      Cela s&apos;écrit de la mani&egrave;re suivante :&nbsp;<span
         style="color:green">[</span
       ><span>^</span><span style="color:blue">debut</span><span
         style="color:red">-</span
@@ -162,7 +162,7 @@
     </div>
   </section>
   <section>
-    <div>Les m&eacute;ta-s&eacute;quences</div>
+    <div>Les méta-séquences</div>
     <div>
       <span style="color:blue">.&nbsp;</span><span style="color:blue"
         >\w&nbsp;</span
@@ -172,14 +172,14 @@
     </div>
   </section>
   <section>
-    <div>Une m&eacute;tas&eacute;quence est un alias pour un ensemble</div>
+    <div>Une métaséquence est un alias pour un ensemble</div>
     <br />
     <div>
       Par exemple<span style="color:blue">&nbsp;\d</span> correspond &agrave; un
-      ensemble d&eacute;crivant un chiffre
+      ensemble décrivant un chiffre
     </div>
     <div>
-      Selon les impl&eacute;mentations, cela peut &eacute;quivaloir &agrave;<span
+      Selon les implémentations, cela peut équivaloir &agrave;<span
         style="color:green">&nbsp;[</span
       ><span style="color:blue">0<span style="color:red">-</span>9</span><span
         style="color:green">]</span
@@ -189,7 +189,7 @@
     <div>
       Mais<span style="color:orange">&nbsp;attention</span>, en python3 par
       exemple<span style="color:blue">&nbsp;\d&nbsp;</span>matche aussi les
-      autres num&eacute;riques dans d&apos;autres langages comme
+      autres numériques dans d&apos;autres langages comme
       &#x660;&#x661;&#x662;&#x663;&#x664;&#x665;&#x666;&#x667;&#x668;&#x669;
     </div>
   </section>
@@ -206,14 +206,14 @@
     </div>
     <br />
     <div>
-      <span style="color:blue">\w</span> : un caract&egrave;re alphanum&eacute;rique
+      <span style="color:blue">\w</span> : un caract&egrave;re alphanumérique
     </div>
     <br />
     <div><span style="color:blue">\W</span> : l&apos;inverse de \w</div>
   </section>
   <section>
     <div>
-      Les m&eacute;tas&eacute;quences peuvent &ecirc;tre utilis&eacute;es dans
+      Les métaséquences peuvent &ecirc;tre utilisées dans
       un<span style="color:green">[</span><span style="color:green">]</span>
     </div>
     <div>
@@ -230,7 +230,7 @@
     </div>
   </section>
   <section>
-    <div>Essayez de nouveau, mais avec les m&eacute;tas&eacute;quences</div>
+    <div>Essayez de nouveau, mais avec les métaséquences</div>
     <br />
     <div class="simpleRowFlex">
       <div>

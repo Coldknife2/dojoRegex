@@ -9,18 +9,18 @@
     <div class="intro-container">
       <div class="logo" style="background-image: url({AxaLogo});" />
       <div style="font-size: 0.8em">
-        Auteurs : R&eacute;mi Fruteau de Laclos, R&eacute;mi Boussu
+        Auteurs : Rémi Fruteau de Laclos, Rémi Boussu
       </div>
     </div>
   </section>
   <section>
-    <h3>navigation dans la pr&eacute;sentation</h3>
+    <h3>navigation dans la présentation</h3>
     <div>
       <div>&darr; ou espace : slide suivante</div>
-      <div>&uarr; : slide pr&eacute;c&eacute;dente</div>
-      <div>&rarr; : chap&icirc;tre suivant</div>
-      <div>&larr; : chap&icirc;tre pr&eacute;c&eacute;dent</div>
-      <div>Echap : navigations parmis tous les slides</div>
+      <div>&uarr; : slide précédente</div>
+      <div>&rarr; : chapitre suivant</div>
+      <div>&larr; : chapitre précédent</div>
+      <div>Echap : navigation parmis toutes les slides</div>
     </div>
   </section>
   <section>

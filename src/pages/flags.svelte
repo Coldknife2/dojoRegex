@@ -8,7 +8,7 @@
     <div><span style="color:orange">g i m</span></div>
   </section>
   <section>
-    <div>Les 3 flags les plus utilis&eacute;s sont :</div>
+    <div>Les 3 flags les plus utilisés sont :</div>
     <div>
       <span style="color:orange">g</span> : global (ne s&apos;arr&ecirc;te pas au
       premier match)

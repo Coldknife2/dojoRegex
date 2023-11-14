@@ -1,8 +1,8 @@
 <section>
   <section>
-    <h1>La s&eacute;curit&eacute;</h1>
+    <h1>La sécurité</h1>
   </section>
-  <section>Un mot sur les regex et la s&eacute;curit&eacute;</section>
+  <section>Un mot sur les regex et la sécurité</section>
   <section>
     <h2>Un DDOS avec une RegExp ?</h2>
     <div>
@@ -11,17 +11,17 @@
         target="_blank"
         rel="noopener noreferrer"
       >
-        &nbsp;un risque reconnu et identifi&eacute; par l&apos;owasp</a
+        &nbsp;un risque reconnu et identifié par l&apos;owasp</a
       >
     </div>
   </section>
   <section>
     <div>
-      Le principe est simple, des regex mal &eacute;crites peuvent avoir de
-      longs temps d&apos;ex&eacute;cutions
+      Le principe est simple, des regex mal écrites peuvent avoir de
+      longs temps d&apos;exécutions
     </div>
     <br />
-    <div>Il suffit d&apos;une seconde d&apos;ex&eacute;cution...</div>
+    <div>Il suffit d&apos;une seconde d&apos;exécution...</div>
     <br />
     <div>Et de 10 000 requ&ecirc;tes/s</div>
   </section>
@@ -29,8 +29,8 @@
     <div>Les &quot;Evil patterns&quot;</div>
     <br />
     <div>
-      d&eacute;signent des patterns faisant monter tr&egrave;s rapidement la
-      complexit&eacute; et le temps d&apos;ex&eacute;cution
+      désignent des patterns faisant monter tr&egrave;s rapidement la
+      complexité et le temps d&apos;exécution
     </div>
   </section>
   <section>
@@ -47,7 +47,7 @@
         >&nbsp;+</span
       ><span style="color:green">&nbsp;*</span>
     </div>
-    <div>Ou : plusieurs possibilit&eacute;s qui s&apos;intersectent</div>
+    <div>Ou : plusieurs possibilités qui s&apos;intersectent</div>
     <br />
     <div>
       <span style="color:red">(</span>a<span style="color:green">+</span><span
@@ -68,11 +68,11 @@
   <section>
     <div>
       Mais ce n&apos;est pas tout, il faut penser &agrave; la taille de
-      l&apos;input analys&eacute; par la regex
+      l&apos;input analysé par la regex
     </div>
     <div>
-      Car si l&apos;input n&apos;est pas limit&eacute;, la regex peut &ecirc;tre
-      consid&eacute;r&eacute;e vuln&eacute;rable, m&ecirc;me pour 50 000
+      Car si l&apos;input n&apos;est pas limité, la regex peut &ecirc;tre
+      considérée vulnérable, m&ecirc;me pour 50 000
       caract&egrave;res !
     </div>
     <br />
@@ -98,7 +98,7 @@
     </div>
     <br />
     <div>
-      Limiter les r&eacute;p&eacute;titions :&nbsp;<a
+      Limiter les répétitions :&nbsp;<a
         href="https://regex101.com/r/nOKjwk/1"
         target="_blank"
         rel="noopener noreferrer">/a+/ vs /a{(1, 2500)}/</a
@@ -121,25 +121,25 @@
         target="_blank"
         rel="noopener noreferrer"
       >
-        Ils peuvent mettre en place des timeout sur l&apos;ex&eacute;cution des
+        Ils peuvent mettre en place des timeout sur l&apos;exécution des
         Regex</a
       >
     </div>
     <br />
     <div>
-      Ca ne fait pas de mal de v&eacute;rifier que son langage prenne en compte
-      ou non cette fonctionnalit&eacute;, et de s&apos;en servir
+      Ca ne fait pas de mal de vérifier que son langage prenne en compte
+      ou non cette fonctionnalité, et de s&apos;en servir
     </div>
   </section>
   <section>
-    <div>En r&eacute;sum&eacute;</div>
+    <div>En résumé</div>
     <br />
-    <div>&Eacute;vitez les Evil patterns au possible</div>
-    <div>Limitez vos inputs, sinon limitez les r&eacute;p&eacute;titions</div>
+    <div>évitez les Evil patterns au possible</div>
+    <div>Limitez vos inputs, sinon limitez les répétitions</div>
     <div>Utilisez les timeouts si vous en avez</div>
   </section>
   <section>
-    <div>Liens suppl&eacute;mentaires</div>
+    <div>Liens supplémentaires</div>
     <br />
     <div>
       <a

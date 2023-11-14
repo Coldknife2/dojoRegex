@@ -19,13 +19,13 @@
     <div>On vous a fait pratiquer les RegExp pour l&apos;exercice</div>
     <br />
     <div>
-      Maintenant, ce n&apos;est normalement pas tr&egrave;s adapt&eacute; pour
+      Maintenant, ce n&apos;est normalement pas tr&egrave;s adapté pour
       plusieurs cas d&apos;usages
     </div>
     <br />
     <div>
-      Par exemple, pour v&eacute;rifier qu&apos;un input est un nombre (saisie
-      textuelle) il est pr&eacute;f&eacute;rable de se servir de sa librairie
+      Par exemple, pour vérifier qu&apos;un input est un nombre (saisie
+      textuelle) il est préférable de se servir de sa librairie
       standard
     </div>
     <br />
@@ -38,7 +38,7 @@
     <h2>Merci d&apos;avoir suivi ce dojo !</h2>
   </section>
   <section>
-    <h2>Liens suppl&eacute;mentaires</h2>
+    <h2>Liens supplémentaires</h2>
     <br />
     <div>
       <a

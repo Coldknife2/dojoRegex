@@ -6,12 +6,11 @@
 
 <section>
   <section>
-    <h1>Op&eacute;rateur OU</h1>
+    <h1>Opérateur OU</h1>
     <div><span style="color:green">|</span></div>
   </section>
   <section>
-    <div>Par d&eacute;faut, les regex font un &quot;ET&quot;</div>
-    0
+    <div>Par défaut, les regex font un &quot;ET&quot;</div>
     <div>
       /abcd/ : je veux matcher a <span style="color:red">et </span>b
       <span style="color:red">et </span>c <span style="color:red">et </span>d

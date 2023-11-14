@@ -9,7 +9,7 @@
   </section>
   <section>
     <div>
-      Les RegExp permettent de d&eacute;crire un motif de correspondance
+      Les RegExp permettent de décrire un motif de correspondance
     </div>
     <a
       href="https://regex101.com/r/JHte5J/1"
@@ -19,9 +19,9 @@
   </section>
   <section>
     <div>
-      Il y a de nombreux moteurs d&rsquo;expressions r&eacute;guli&egrave;res
+      Il y a de nombreux moteurs d&rsquo;expressions réguli&egrave;res
     </div>
-    <div>Tous n&apos;impl&eacute;mentent pas toutes les specifications</div>
+    <div>Tous n&apos;implémentent pas toutes les specifications</div>
     <a
       href="https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines#Part_1"
       target="_blank"

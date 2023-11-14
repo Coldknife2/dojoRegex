@@ -13,7 +13,6 @@
   import PosixGrepSed from "./pages/posixGrepSed.svelte";
   import Quantifieurs from "./pages/quantifieurs.svelte";
   import Metasequences from "./pages/ranges-metasequences.svelte";
-  import Ressources from "./pages/ressources.svelte";
   import Securite from "./pages/securite.svelte";
   import Standard from "./pages/standard.svelte";
 </script>

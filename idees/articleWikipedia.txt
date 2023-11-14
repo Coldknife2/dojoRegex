@@ -42,7 +42,7 @@
 	<h1 id="firstHeading" class="firstHeading" lang="fr">Effet tunnel</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">Un article de Wikip&eacute;dia, l&#039;encyclop&eacute;die libre.</div>
+		<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
 		<div id="contentSub"></div>
 		
 		

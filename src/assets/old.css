@@ -34,3 +34,15 @@
   .reveal pre {
     display: inline-table;
   }
+
+  a {
+    display: inline-block;
+  }
+
+  .reveal img {
+    margin: unset;
+  }
+
+  :focus-visible {
+    outline: none;
+  }

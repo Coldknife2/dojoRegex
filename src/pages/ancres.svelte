@@ -10,7 +10,7 @@
   <section>
     <div>Il y a 2 ancres :</div>
     <br />
-    <div><span style="color:green">^</span> d&eacute;but du texte</div>
+    <div><span style="color:green">^</span> début du texte</div>
     <br />
     <div><span style="color:green">$</span> fin du texte</div>
   </section>
@@ -20,7 +20,7 @@
       passent en mode par ligne
     </div>
     <br />
-    <div><span style="color:green">^</span> d&eacute;but de la ligne</div>
+    <div><span style="color:green">^</span> début de la ligne</div>
     <br />
     <div><span style="color:green">$</span> fin de la ligne</div>
   </section>

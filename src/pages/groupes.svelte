@@ -24,8 +24,8 @@
       /<span style="color:blue">ab</span><span style="color:green">+</span>/ et
       /<span style="color:red">(</span><span style="color:blue">ab</span><span
         style="color:red">)</span
-      ><span style="color:green">+</span>/ sont interpr&eacute;t&eacute;s
-      diff&eacute;remment
+      ><span style="color:green">+</span>/ sont interprétés
+      différemment
     </div>
     <table>
       <thead>
@@ -68,7 +68,7 @@
         style="color:blue">b</span
       >|<span style="color:blue">c</span><span style="color:red">)</span><span
         style="color:blue">d</span
-      >/ sont interpr&eacute;t&eacute;s diff&eacute;remment
+      >/ sont interprétés différemment
     </div>
     <br />
     <div>
@@ -88,10 +88,10 @@
   <section>
     <h3>La capture en regex</h3>
     <br />
-    <div>Par d&eacute;faut, les groupes sont <strong>capturants</strong></div>
+    <div>Par défaut, les groupes sont <strong>capturants</strong></div>
     <br />
     <div>
-      Une regex permet de matcher un texte avec des contraintes donn&eacute;es
+      Une regex permet de matcher un texte avec des contraintes données
     </div>
     <br />
     <div>
@@ -114,7 +114,7 @@
     </div>
   </section>
   <section>
-    <div>Les captures peuvent ensuite &ecirc;tre utilis&eacute;es</div>
+    <div>Les captures peuvent ensuite &ecirc;tre utilisées</div>
     <br />
     <div>
       <a
@@ -134,18 +134,18 @@
   <section>
     <div>
       Ensuite dans le texte de remplacement, les captures sont
-      num&eacute;rot&eacute;es
+      numérotées
     </div>
     <div>
       Pour les remplacer dans un texte : $<span style="color:red">#</span>
     </div>
-    <div><span style="color:red">#</span> &eacute;tant un nombre</div>
+    <div><span style="color:red">#</span> étant un nombre</div>
     <br />
     <div>
-      $<span style="color:red">0</span> repr&eacute;sente le match complet
+      $<span style="color:red">0</span> représente le match complet
     </div>
     <div>
-      $<span style="color:red">1</span> repr&eacute;sente la<span
+      $<span style="color:red">1</span> représente la<span
         style="color:red">&nbsp;1</span
       >&egrave;re capture
     </div>
@@ -173,7 +173,7 @@
         target="_blank"
         rel="noopener noreferrer"
         >Exemple avec le site AXAFR pour extraire des formules et les prix
-        associ&eacute;s</a
+        associés</a
       >
     </div>
   </section>
